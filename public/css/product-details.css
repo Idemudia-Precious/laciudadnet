@@ -1,0 +1,448 @@
+.containerproduct-detail{
+  margin-bottom: 30px!important;
+  padding: 3rem !important;
+}
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+.prevv,
+.nextt {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 13px;
+  margin-top: -50px;
+  font-weight: bold;
+  font-size: 19px;
+  user-select: none;
+  -webkit-user-select: none;
+  color: #842dce!important;
+}
+.conprospace{
+   padding-top: 50px;  
+}
+
+.nextt {
+  right: 0;
+  border-radius: 20%;
+  padding-right: 20px!important;
+}
+.prevv:hover,
+.nextt:hover {
+  color:#ddd!important;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.productcolumn{
+  float: left;
+  width: 16.66%;
+}
+.proimg-sstyle{
+   height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+.proimg-sstyle2{
+   height: 60px;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+.productcolumn .active,
+.demo:hover {
+  border:2px solid #842dce!important;
+}
+.cardproborder1{
+  border: none!important;
+}
+.promainh3{
+  font-weight: 500;
+}
+.pro-code{
+  color: #8d8d8d;
+}
+.pro-code2{
+  font-weight: 600;
+}
+.pro-code3{
+  color: #636363;
+  font-size: 13px;
+}
+.pro-code4{
+  font-weight: 700;
+    font-size: 13px;
+    color: #6d6565;
+    margin-left: 76px;
+}
+.pro-selectstyle{
+  width: 70px!important;
+  margin-left: 55px;
+}
+.pro-codestyle{
+  font-size: 14px;
+}
+.pro-codeh5{
+  font-size: 24px;
+    font-weight: 700;
+
+}
+.prolinks-style{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.buybtn-style{
+    font-size: 14px!important;
+    border-radius: 0px!important;
+    padding: 9px!important;
+}
+.love-links a{
+    display: block;
+    float: left;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+} 
+.prolove-link:hover {
+    border: 1px solid #888383!important;
+    background-color:#888383;
+}
+.prolove-link{
+    border: 1px solid #18ca18!important;
+    background-color:#18ca18;
+}
+.prolove-link i {
+    padding: 5px 8px;
+    font-size: 23px;
+    color: #fff;
+    padding-top: 10px;
+}
+.prolove-link i:hover{
+    color:#fff;
+}
+.saveprolink{
+    color: #8d8d8d;
+    font-size: 13px;
+    margin-left: 15px;
+    line-height: 40px;
+    font-weight: 600;
+}
+.share-friends{
+    color: #565656;
+}
+.neoproduct-buttonlikes {
+    width: 40px;
+    height: 40px;
+    outline: 0 !important;
+    cursor: pointer;
+    color: #842dce;
+    font-size: 15px;
+    border: none;
+    margin-right: 10px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, #d6d6d6, #ffffff);
+    box-shadow: inset 20px 20px 60px #cacaca, inset -20px -20px 60px #ffffff;
+}
+
+.neoproduct-buttonlikes:active {
+    border-radius: 50%;
+    background: linear-gradient(145deg, #d6d6d6, #ffffff);
+    box-shadow: inset 20px 20px 60px #cacaca, inset -20px -20px 60px #ffffff
+}
+.neoproduct-button {
+    width: 40px;
+    height: 40px;
+    outline: 0 !important;
+    cursor: pointer;
+    color: #fff;
+    font-size: 15px;
+    border: none;
+    margin-right: 10px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, #d6d6d6, #ffffff);
+    box-shadow: 20px 20px 60px #cacaca, -20px -20px 60px #ffffff
+}
+
+.neoproduct-button:active {
+    border-radius: 50%;
+    background: linear-gradient(145deg, #d6d6d6, #ffffff);
+    box-shadow: inset 20px 20px 60px #cacaca, inset -20px -20px 60px #ffffff
+}
+
+.cardproborder3 {
+    border: none!important;
+    margin-top: 10px;
+    padding: 30px;
+}
+.cardproborder2{
+    border: none!important;
+    margin-top: 20px;
+}
+.cardproborder2 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #842dce!important;
+    background-color: #fff!important;
+}
+.cardproborder2 li a{
+    font-size: 19px;
+    margin: 0px 9px;
+    padding-top: 0px;
+    font-weight: 700;
+    color:#656565!important;
+}
+.protabspace>.tab-pane {
+    display: none;
+    margin-left: 25px;
+}
+.pro-delivery{
+    font-size: 14px;
+    color:#636363;
+    font-weight: 700;
+}
+.pro-delivery3{
+    font-size: 14px;
+    color:#636363;
+    font-weight: 700;
+    margin-top:15px;
+}
+.pro-delivery2{
+    font-size: 14px;
+    color: #8d8d8d;
+}
+.pro-h5-rating{
+    font-size: 16px;
+    padding-top: 20px;
+    color: #656565;
+}
+.rating-boxx {
+    width: 170px;
+    height: 160px;
+    background-color:#f1f1f1;
+    color: #FBC02D;
+}
+.rating-boxxspan{
+    color: #FBC02D;
+    font-weight: 400!important;
+}
+.rating-boxxh1{
+    text-align: center;
+}
+.rating-boxxp{
+    text-align: center;
+    font-size: 14px;
+    color: #656565!important;
+}
+
+.pro-star-progresss{
+    color: #8d8d8d;
+    margin-left: 5px;
+    font-size: 12px;
+}
+.styling-stars{
+  font-size: 13px;
+  line-height: 23px;
+}
+.styling-stars i{
+  color: #FBC02D;
+}
+.styling-stars2{
+    margin-top: 9px;
+}
+.pro-ratingtable i{
+    color: #FBC02D;
+    padding-left: 5px;
+}
+
+.progress-sm{
+  height: 0.5rem !important;
+  background-color: #f1f1f1!important;
+  border-radius: 20px;
+  width:34%!important;
+}
+.star-active {
+    color: #FBC02D;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+.star-active:hover {
+    color: #F9A825;
+    cursor: pointer
+}
+
+.star-inactive {
+    color: #CFD8DC;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+.pro-ratingtable{
+    margin-top: 20px;
+}
+.pd-reviews-style{
+    font-weight: 600;
+    font-size:16px;
+    color: #656565;
+    padding-top: 20px;
+}
+.p-pro{
+    font-size: 14px;
+    font-weight: 500;
+    color: #656565;
+}
+.p-pro2{
+    font-size: 14px;
+    color: #656565;
+}
+.pro-star-ver{
+    font-weight: 600;
+    color: #842dce;
+}
+.pro-star-img{
+   width: 17px;
+}
+.ads-prode{
+   margin: 0px 8px!important;
+ }
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media only screen and (max-width: 1199px) {
+.cardproborder3 {
+    border: none !important;
+    margin-top: 10px;
+    padding: 0px;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.proimg-sstyle {
+    height: 200px;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.smcardprobor {
+    padding: 0px!important;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.ads-prode{
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+    margin: 0px 0px!important;
+ }
+}
+@media only screen and (max-width: 1199px) {
+  .conprospace {
+    padding-top: 20px;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.ads-cardds{
+    padding-right: 5px!important;
+    padding-left: 5px!important;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.ads-cardds2{
+    padding-bottom: 0px!important;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.containerproduct-detail{
+   padding: 0px!important;
+   margin-top: 1.7rem !important;
+   margin-bottom: 10px !important;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.promainh3{
+   font-size: 18px!important;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.pro-codestyle span{
+    font-size: 13px;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.pro-codeh5 {
+    font-size: 18px;
+    margin-bottom: 0px!important;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.cardproborder2 li a {
+    font-size: 15px!important;
+    margin: 0px 0px;
+    padding-bottom:.2rem;
+    padding-top: .2rem;
+    padding-left: 0rem;
+    padding-right: .9rem; 
+ }
+}
+@media only screen and (max-width: 1199px) {
+.protabspace > .tab-pane {
+    margin-left: 0px;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.pro-delivery2 {
+    font-size: 13px;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.pro-delivery {
+    font-size: 13px;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.pro-h5-rating {
+    font-size: 14px;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.p-pro {
+    font-size: 13px;
+    margin-bottom: 5px!important;
+    font-weight: 600;
+    color: #000;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.p-pro2 {
+    font-size: 12px;
+    margin-bottom: 0px!important;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.p-pro3 {
+    font-size: 12px;
+    color: #8D8E92;
+    padding-top: 4px!important;
+ }
+}
+@media only screen and (max-width: 1199px) {
+.progress-sm {
+    width: 84%!important;
+ }
+}

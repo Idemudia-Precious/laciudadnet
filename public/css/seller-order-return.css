@@ -1,0 +1,229 @@
+.order-detailh5 {
+    margin-left: 10px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:#464545;
+    padding-bottom: 10px;
+}
+.order-detailh5 a{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:#464545;
+}
+.order-detailh5 a:hover{
+    text-decoration: none!important;
+    color:#464545;
+}
+    
+.order-detailh5 i{
+    font-size: 24px!important; 
+}
+
+.ord1{
+   margin: 0 20px!important;
+   padding-bottom: 10px!important;
+   font-weight: 500;
+}
+.ord2{
+   margin: 0 20px!important;
+   font-size: 13px;
+   color:#656565;
+}
+.ord3{
+   margin: 0 20px!important;
+   font-size: 13px;
+   color:#656565;
+}
+.ord4{
+   margin: 0 20px!important;
+   font-size: 13px;
+   color:#656565;
+   line-height: 26px;
+}
+.ord5{
+   margin: 0 20px!important;
+   font-weight: 500;
+}
+.order-detcardbody {
+    padding: 16px!important;
+}
+.order-detcardheader{
+	background-color: #fff!important;
+}
+.statusorder-return{
+  color: #636363;
+}
+.order-quality{
+	margin-bottom: 0!important;
+    margin-top: 20px!important;
+    font-size: 14px;
+}
+
+.order-dettime2 {
+    font-size: 13px;
+    font-weight: 500;
+    color: #282828;
+}
+.ort{
+	margin-top: 20px;
+}
+
+.ord6{
+   font-weight: 500;
+   margin-left: 5px;
+   font-size: 15px;
+   margin-bottom: 0!important;
+}
+.ord7{
+   color:#656565;
+   font-size: 13px;
+    margin-left: 5px;
+}
+.pi-orderdetails{
+   font-size: 15px;
+   font-weight: 500;
+}
+.ord8{
+   margin-left: 5px;
+   margin-bottom: 0!important;
+   font-weight: 500;
+   margin-top: 40px;
+}
+.ord9{
+   margin-left: 5px;
+   margin-bottom: 0!important;
+   font-size: 13px;
+   color:#656565;
+}
+.ord10{
+   margin-left: 5px;
+   margin-bottom: 0!important;
+   font-size: 13px;
+   color:#656565;
+}
+.hp-orderdetails a{
+  color: #464545;
+  font-size: 16px;
+  padding-top: 20px;
+}
+.hp-orderdetails a:hover{
+  color: #464545;
+  text-decoration: none;
+}
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.order-detailh5 a {
+    font-size: 17px!important;
+    font-weight: 400;
+    color: #000!important;
+    padding-bottom: 0px!important;
+    padding-top: 10px;
+  }
+}
+@media all and (max-width: 768px) {
+.order-detailh5 i {
+    font-size: 17px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.content {
+    margin-top: 20px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.ord1 {
+    margin: 0 7px !important;
+    font-size: 13px;
+  }
+}
+@media all and (max-width: 768px) {
+.ord2 {
+    margin: 0 7px !important;
+    font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.ord3 {
+    margin: 0 7px !important;
+    font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.ord3 {
+    margin: 0 7px !important;
+    font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.ord4 {
+    margin: 0 7px !important;
+    font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.ord5 {
+    margin: 0 7px !important;
+    font-size: 14px;
+  }
+}
+@media all and (max-width: 768px) {
+.order-detcardbody {
+    padding: 6px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.order-detstatus {
+    font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.pi-orderdetails {
+    font-size: 14px;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.ord6 {
+   font-weight: 600;
+   margin-left: 5px;
+   font-size: 14px;
+   margin-bottom: 0!important;
+  }
+}
+@media all and (max-width: 768px) {
+.ord7{
+   color:#656565;
+   font-size: 12px;
+    margin-left: 5px;
+  }
+}
+@media all and (max-width: 768px) {
+.ord8{
+   margin-left: 5px;
+   margin-bottom: 0!important;
+   font-weight: 600;
+   margin-top: 20px;
+   font-size: 14px;
+  }
+}
+@media all and (max-width: 768px) {
+.ord9{
+   font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.ord10{
+   font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.hp-orderdetails a {
+    font-size: 14px;
+    padding-top: 20px;
+  }
+}
+
+
+

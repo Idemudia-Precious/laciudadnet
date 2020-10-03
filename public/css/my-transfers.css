@@ -1,0 +1,104 @@
+
+.transh5 {
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #000;
+}
+.transh5p {
+    font-size: 13px;
+    padding-bottom: 3rem !important;
+}
+.trans-extra-space{
+    padding-top: 1.5rem !important;
+}
+.transcardbody {
+    padding: 18px!important;
+    margin-bottom: 40px;
+}
+.trans-img{
+    width:50px!important;
+}
+.trans-span{
+    color:#656565;
+    margin-left: 13px;
+}
+.translabel{
+    font-size: 14px!important;
+    font-weight: 500!important;
+    color: #656565!important;
+}
+.transselect{
+    font-size: 13px!important; 
+}
+.box-body-mt{
+   margin-bottom: 3rem !important;
+}
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.transh5{
+    margin-left: 0px!important;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+    padding-top: 20px !important;
+    margin-bottom: 0px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.transh5p {
+    font-size: 12px;
+    padding-bottom: 15px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.sm-trans-btn-funds button {
+    font-size: 13px;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.sm-trans-btn-funds{
+    padding-top: 20px;
+  }
+}
+
+@media all and (max-width: 768px) {
+.translabel{
+    font-size: 12px!important;
+    font-weight: 700!important;
+  }
+}
+@media all and (max-width: 768px) {
+.transselect{
+    font-size: 12px!important; 
+  }
+}
+@media all and (max-width: 768px) {
+.trans-img {
+    width: 40px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.trans-span {
+    margin-left: 13px;
+    font-size: 13px;
+  }
+}
+@media all and (max-width: 768px) {
+.box-body-mt{
+   margin-bottom: 1.5rem !important;
+  }
+}
+@media all and (max-width: 768px) {
+.trans-extra-space{
+    padding-top: .5rem !important;
+  }
+}
+
+
+
+

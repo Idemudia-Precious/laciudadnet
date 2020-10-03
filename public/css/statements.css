@@ -1,0 +1,125 @@
+.statementh5 {
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #000;
+}
+.statementh5p {
+    font-size: 13px;
+    padding-bottom: 1.5rem !important;
+}
+.stateh5-a{
+	font-size: 12px;
+	padding-right: 12px;
+	 color: #842dce;
+	 font-weight: 500;
+}
+.stateh5-a:hover{
+	 color: #656565;
+	 text-decoration: none;
+}
+.statecardbody {
+    padding: 18px!important;
+    margin-bottom: 40px;
+}
+.tr-state{
+	font-size: 14px!important;
+	color: #656565!important;
+}
+.stateh5{
+	padding-left: 10px;
+}
+.state-fund{
+	margin-top: 9px!important;
+	margin-bottom: 0!important;
+	padding: 0!important;
+	box-shadow: 0 0.4rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+.tr2-state{
+	font-size: 13px!important;
+}
+.td-state{
+    padding: 14px!important;
+}
+.td2-state{
+	padding-top: 16px!important;
+}
+.tdstate-a{
+	color: #842dce;
+}
+.tdstate-a:hover{
+	color: #842dce;
+	text-decoration: none;
+}
+.state-t {
+	margin-bottom: 0!important;
+}
+.stdbut{
+	font-size: 11px!important;
+	background: #6c757dd4!important;
+    border-color: #858c93!important;
+}
+.stdbuta{
+	font-size: 12px!important;
+}
+.cardstate-top{
+	margin-top: 40px;
+}
+.modalstate-style{
+	padding: 30px!important;
+}
+.modalstate-style-h5{
+	font-size: 15px;
+}
+.tdmodal-style{
+    color: green;
+    font-weight: 500;
+}
+
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.statementh5{
+    margin-left: 0px!important;
+    font-size: 17px;
+    font-weight: 600;
+    color: #000;
+    padding-top: 20px !important;
+    margin-bottom: 0px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.statementh5p {
+    font-size: 12px;
+    padding-bottom: 15px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.stateh5 {
+    font-size: 15px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.sm-trans-btn-funds button {
+    font-size: 13px;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.tr-state {
+    font-size: 12px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.td-state a {
+    font-size: 12px !important;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.tr2-state {
+    font-size: 12px!important;
+  }
+}

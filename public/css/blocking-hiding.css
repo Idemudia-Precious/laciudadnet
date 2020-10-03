@@ -1,0 +1,79 @@
+.s-l{
+  padding: 0px!important;
+}
+/* Horizontal line */
+.setting-login .collapsible-link::before {
+  content: '';
+  width: 14px;
+  height: 3px;
+  background: #842dce;
+  position: absolute;
+  top: calc(50% - 1px);
+  right: 1rem;
+  display: block;
+  transition: all 0.3s;
+}
+
+/* Vertical line */
+.setting-login .collapsible-link::after {
+  content: '';
+  width: 3px;
+  height: 8px;
+  background: #842dce;
+  position: absolute;
+  top: calc(50% - 7px);
+  right: calc(1rem + 6px);
+  display: block;
+  transition: all 0.3s;
+}
+
+.setting-login .collapsible-link[aria-expanded='true']::after {
+  transform: rotate(180deg) translateX(-1px);
+}
+
+.setting-login .collapsible-link[aria-expanded='true']::before {
+  transform: rotate(180deg);
+}
+.blocking-hiding a{
+  color: #000!important;
+  font-weight: 400!important;
+}
+.blocking-hiding a:hover{
+  text-decoration: none!important;
+}
+.blocking-hiding-span{
+  font-size: 13px!important;
+  color:#656565;
+}
+.blocking-hiding-span i{
+  font-size: 10px!important;}
+.sub-bh-header{
+  font-size: 12px!important;
+  color: #969696;
+}
+.chang-btn-bh {
+    font-size: 12px!important;
+}
+
+.set-label-sls{
+  font-size: 13px!important;
+}
+.set-form{
+  font-size: 14px!important;
+}
+.unblock-link{
+  font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

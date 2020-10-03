@@ -1,0 +1,121 @@
+.edtitop{
+	margin-top: 40px;
+}
+.editcardsttyle{
+	border:none!important;
+}
+.edtitoplabel{
+	font-size: 13px!important;
+	color: #656565!important;
+}
+.profiletabs .nav-link.active {
+    color: #842dce!important;
+}
+
+ .profiletabs .nav-link {
+     font-size: 15px;
+     font-weight: 500;
+     padding: 1rem!important;
+     color: #635b5b;
+     position: relative;
+}
+ .profiletabs .nav-link.active:after {
+     content: "";
+    background-color: #842dce!important;
+     height: 3px;
+     position: absolute;
+     bottom: -2px;
+     left: 0;
+     right: 0;
+}
+
+
+.edit-images{
+    width:80px;
+}
+.edit-pic-dlete i{
+    font-size: 13px;
+}
+.edit-trash-dlete i{
+    font-size:13px;
+}
+.edit-abouth6{
+    color: #000;
+}
+.edit-aboutp{
+    font-size: 12px;
+}
+.edit-aboutlabelbio{
+    color: #000;
+    font-weight: 500;
+    font-size: 14px;
+}
+.edit-profile-top .form-control{
+   font-size: 13px;
+}
+.icon-form-control i {
+    display: flex;
+    top: 0;
+    bottom: 0;
+    align-items: center;
+    font-size: 16px;
+    justify-content: center;
+    width: 40px;
+}
+.icon-form-control .form-control {
+    padding-left: 40px;
+}
+.facebook-textcolor {
+    color: #3b5898;
+}
+.editing-btn{
+    font-size: 13px!important;
+}
+.formeditstyling{
+    font-size: 13px!important;
+    color: #000;
+    font-weight: 500;
+}
+.text-purple{
+    color: #842dce;
+}
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.edit-profile-top .form-control {
+    font-size: 12px;
+ }
+}
+@media all and (max-width: 768px) {
+.edit-abouth6 {
+  font-size: 14px;
+ }
+}
+@media all and (max-width: 768px) {
+.edit-aboutlabelbio {
+  font-size: 14px;
+ }
+}
+@media all and (max-width: 768px) {
+.editing-btn {
+    font-size: 12px !important;
+ }
+}
+@media all and (max-width: 768px) {
+.formeditstyling {
+    font-size: 12px !important;
+ }
+}
+
+
+
+
+
+
+
+
+
+
+

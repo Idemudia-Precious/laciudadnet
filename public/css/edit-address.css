@@ -1,0 +1,100 @@
+.edit-addressh5 {
+    margin-left: 10px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:#464545;
+    padding-bottom: 10px;
+}
+.edit-addressh5  a{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:#464545;
+}
+.edit-addressh5  a:hover{
+    text-decoration: none!important;
+    color:#464545;
+}
+    
+.edit-addressh5  i{
+    font-size: 24px!important; 
+}
+.crdedit{
+    border:none!important;
+}
+.editlabel {
+    font-size: 14px!important;
+    font-weight: 500!important;
+    color: #656565!important;
+}
+.editselect {
+    font-size: 13px!important;
+}
+.edtop{
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 40px;
+}
+.saveedit-but{
+    background-color: #842dce!important;
+    border-color:#842dce!important;
+    font-weight: 600!important;
+}
+.saveedit-but:hover{
+    background-color:#fff!important;
+    color: #842dce!important;
+    border-color:#842dce!important;
+}
+
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+ .edit-addressh5 a{
+    margin-left: 0px;
+    font-size: 17px;
+    font-weight: 600;
+    color: #000;
+    padding-bottom: 0px;
+  }
+}
+@media all and (max-width: 768px) {
+ .edit-addressh5 {
+    padding-bottom: 0px;
+  }
+}
+@media all and (max-width: 768px) {
+ .edit-addressh5 {
+    margin-left: 0px;
+
+  }
+}
+@media all and (max-width: 768px) {
+ .edit-addressh5 i{
+    font-size: 17px!important;
+
+  }
+}
+@media all and (max-width: 768px) {
+.editlabel {
+    font-size: 13px !important;
+
+  }
+}
+@media all and (max-width: 768px) {
+.editadd-col {
+    padding-left: 7px!important;
+    padding-right: 7px!important;
+
+  }
+}
+@media all and (max-width: 768px) {
+.editselect {
+    font-size: 11px !important;
+
+  }
+}
+
+
+
+

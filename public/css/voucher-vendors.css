@@ -1,0 +1,258 @@
+body{
+	font-family: 'Roboto' sans-seriff;
+	background-image: linear-gradient(250deg, #dddbd1, #d2dbdc);
+
+}
+body , html{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+
+.chatbox{
+	height: calc(100% - 40px);
+	width: 70%!important;
+	margin-top: 0px;
+	padding:0!important;
+}
+.project-tab {
+    padding: 10%;
+    margin-top: -8%;
+}
+.project-tab #tabs{
+    background: #007b5e;
+    color: #eee;
+}
+.project-tab #tabs h6.section-title{
+    color: #eee;
+}
+.project-tab #tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color:#842dce!important;
+    background-color: transparent;
+    border-color:#fff!important;
+    border-bottom: 3px solid !important;
+    font-size: 16px;
+    font-weight: bold;
+}
+.project-tab .nav-link {
+    border: 1px solid #fff!important;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: #0062cc!important;
+    font-size: 16px;
+    font-weight: 600;
+}
+.project-tab .nav-link:hover {
+    border: none!important;
+}
+.project-tab  .nav-tabs .nav-link{
+    color:#0062cc!important;
+}
+.Voucher-vendorh5{
+  color: #000;
+}
+.Voucher-vendorh5:hover{
+  color: #000;
+  text-decoration: none!important;
+}
+.Voucher-vendorh5 h5{
+  padding-bottom: 20px;
+    font-weight: 600;
+}
+.Voucher-vendorh5 i{
+  font-size: 18px!important;
+}
+.v-space{
+    padding: 15px;
+}
+.v-space2{
+    margin-top: 30px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.v-space3{
+    margin-top: 15px;
+    padding: 15px;
+}
+.vmedia {
+    padding-top: 1px;
+}
+.vmedia a {
+    color: #635b5b;
+    font-weight: 600;
+    font-size: 14px;
+}
+.iconv {
+    color: gray;
+    cursor: pointer;
+    font-size: 15px!important;
+    margin-left: 5px;
+}
+.vphone {
+    font-size: 12px !important;
+    color: #656565 !important;
+    display: block;
+}
+.main-v {
+    width: 25%;
+    padding-top: 10px;
+}
+.mainvv{
+      border-bottom: 1px solid #e4e4e4;
+      padding-bottom: 10px;
+}
+.mainv-h4{
+    color: #464545;
+    font-weight: 400;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.voucher-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.voucher-search .form-control-voucherfeed {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+.vendor-img{
+    width: 70px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+.v-cardborder{
+    background: #f1f1f1;
+    padding: 40px!important;
+}
+.sub-v{
+    color:#fff!important;
+    background-color:#842dce!important;
+    border-color:#842dce!important;
+    padding: 10px!important; 
+    margin-top: 50px;
+}
+.info-v li{
+    line-height: 26px;
+    color: #656565;
+    font-size: 14px;
+    padding-bottom: 8px;
+}
+.info-v{
+    padding-top: 15px;
+}
+.info-span{
+   color: #635b5b;
+   font-weight: 600; 
+}
+.infop{
+    padding: 15px;
+    margin-top: 40px;
+}
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+  .voucher-search-input{
+   font-size: 14px!important;
+  }
+}
+@media all and (max-width: 768px) {
+  .voucher-search span{
+   font-size: 14px!important;
+  }
+}
+@media all and (max-width: 768px) {
+  .chatbox{
+    width: 100%!important;
+  }
+}
+@media all and (max-width: 768px) {
+  .main-v {
+    width: 90%;
+    padding-top: 0px;
+  }
+}
+@media all and (max-width: 768px) {
+  .voucher-v .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    font-size: 14px;
+  }
+}
+@media all and (max-width: 768px) {
+  .voucher-v .nav-tabs .nav-link{
+    font-size: 13px!important;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+  .v-space3 {
+    margin-top: 10px;
+    padding: 20px;
+  }
+}
+@media all and (max-width: 768px) {
+  .v-space {
+    padding: 0px;
+    margin-right: 13px;
+    margin-left: 13px;
+  }
+}
+@media all and (max-width: 768px) {
+  .Voucher-vendor-col{
+    padding-bottom: 16px!important;
+  }
+}
+@media all and (max-width: 768px) {
+  .v-cardborder{
+    padding: 20px!important;
+  }
+}
+@media all and (max-width: 768px) {
+  .voucher-label{
+    font-size: 13px!important;
+    font-weight: 600; 
+  }
+}
+@media all and (max-width: 768px) {
+  .voucher-form{
+    font-size: 13px!important;
+    font-weight: 600; 
+  }
+}
+@media all and (max-width: 768px) {
+  .sub-v {
+   margin-top: 30px;
+   font-size: 14px !important;
+   font-weight: 600 !important;
+  }
+}
+@media all and (max-width: 768px) {
+  .Voucher-vendorh5 h5 {
+    padding-bottom: 10px;
+    font-weight: 600;
+    font-size: 15px;
+  }
+}
+@media all and (max-width: 768px) {
+  .Voucher-vendorh5 i {
+    font-size: 14px!important;
+  }
+}
+@media all and (max-width: 768px) {
+  .mainvv {
+    padding-bottom: 0px;
+  }
+}
+@media all and (max-width: 768px) {
+  .v-space2 {
+    margin-top: 10px;
+  }
+}

@@ -1,0 +1,129 @@
+.statementh5-deposit {
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #464545;
+    margin-bottom: 30px;
+}
+.statementh5-deposit  a{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:#464545;
+}
+.statementh5-deposit  a:hover{
+    text-decoration: none!important;
+    color:#464545;
+}
+    
+.statementh5-deposit  i{
+    font-size: 24px!important; 
+}
+.statecardbody-deposit {
+    padding: 18px!important;
+    margin-bottom: 40px;
+}
+.tr-state-deposit{
+	font-size: 14px!important;
+	color: #656565!important;
+}
+.stateh5-deposit{
+	padding-left: 10px;
+}
+.state-fund-deposit{
+	margin-top: 9px!important;
+	margin-bottom: 0!important;
+	padding: 0!important;
+	box-shadow: 0 0.4rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+.state-t-deposit {
+	margin-bottom: 0!important;
+}
+.tr2-state-deposit{
+	font-size: 13px!important;
+}
+.td-state-deposit{
+    padding: 14px!important;
+}
+.td2-state-deposit{
+	padding-top: 16px!important;
+}
+.tdstate-a-deposit{
+	color: #842dce;
+}
+.tdstate-a-deposit:hover{
+	color: #842dce;
+	text-decoration: none;
+}
+
+.stdbut-deposit{
+	font-size: 11px!important;
+	background: #6c757dd4!important;
+    border-color: #858c93!important;
+}
+.stdbuta-deposit{
+	font-size: 12px!important;
+}
+.modalstate-style-deposit{
+	padding: 30px!important;
+}
+.modalstate-style-h5-deposit{
+	font-size: 15px;
+}
+.tdmodal-style-deposit{
+    color: green;
+    font-weight: 500;
+}
+
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.statementh5-deposit{
+    padding-top: 10px !important;
+    margin-bottom: 0px!important;
+    margin-left: 0px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.statementh5-deposit a{
+    margin-left: 0px!important;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+  }
+}
+@media all and (max-width: 768px) {
+.statementh5-deposit i{
+    margin-left: 0px!important;
+    font-size: 17px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.stateh5-deposit {
+    font-size: 15px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.tr-state-deposit {
+    font-size: 12px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.td-state-deposit a {
+    font-size: 12px !important;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.tr2-state-deposit {
+    font-size: 12px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.statecardbody-deposit {
+    padding: 8px !important;
+  }
+}
+
+

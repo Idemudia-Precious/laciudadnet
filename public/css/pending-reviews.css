@@ -1,0 +1,65 @@
+.previewh5{
+  margin-left: 20px;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #464545;
+}
+.previewh5 a{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:#464545;
+}
+.previewh5 a:hover{
+    text-decoration: none!important;
+    color:#464545;
+}
+    
+.previewh5 i{
+    font-size: 24px!important; 
+}
+
+.prevpending a{
+  font-weight: 500;
+  color: #842dce;
+  font-size: 15px;
+}
+.revpending a:hover{
+  text-decoration: none!important;
+  cursor: pointer;
+  color:#656565!important; 
+
+}
+.previewcardbody{
+      padding: 18px!important;
+}
+.previewttop {
+    margin-top: 20px;
+}
+.previewimg {
+    width: 90px!important;
+    border-radius: 6px;
+}
+.previewmedia2 {
+    margin: 3px 0 !important;
+    font-size: 15px;
+    color: #282828;
+    line-height: 26px;
+}
+.previewdet{
+    font-size: 13px;
+    margin-top: 5px;
+}
+.previewdet a{
+  color:#656565!important; 
+  font-weight:600!important;
+}
+.previewtime{
+  font-size: 14px !important;
+  color: #656565 !important;
+  display: block;
+}
+.previewtime2{
+  font-size: 13px;
+  font-weight: 500;
+  color: green;
+}

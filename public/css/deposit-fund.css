@@ -1,0 +1,103 @@
+.deposith5 {
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #000;
+    padding-top: 1.5rem !important;
+}
+.deposith5p {
+    font-size: 13px;
+    padding-bottom: 3rem !important;
+}
+.depositcardbody {
+    padding: 18px!important;
+    margin-bottom: 40px;
+}
+.tr-deposit{
+	font-size: 14px!important;
+	color: #656565!important;
+}
+.cd-deposit{
+	padding-top: 9px!important;
+	padding-bottom: 0!important;
+}
+.tr2-deposit{
+	font-size: 14px!important;
+}
+.tr-img{
+	width: 60px;
+}
+.td-deposit{
+    padding: 8px!important;
+}
+.td2-deposit{
+	padding-top: 16px!important;
+}
+.deposit-t {
+	margin-bottom: 0!important;
+}
+.depo-cards{
+	padding-left:10px;
+	font-weight: 600;
+	font-size: 13px;
+}
+.depo-cards:hover{
+	color: #842dce;
+	text-decoration: none!important;
+	cursor:pointer;
+}
+
+
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.deposith5 {
+    margin-left: 0px!important;
+    font-size: 17px;
+    font-weight: 600;
+    color: #000;
+    padding-top: 20px !important;
+    margin-bottom: 0px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.deposith5p {
+	font-size: 12px;
+    padding-bottom: 15px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.sm-depo-fundss {
+	font-size: 15px;
+	padding-left: 9px;
+    padding-top: 5px;
+  }
+}
+@media all and (max-width: 768px) {
+.tr-deposit {
+    font-size: 12px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.td2-deposit {
+    padding-top: 0px !important;
+    font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.cd-deposit {
+    padding: 0px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.depo-cards {
+    padding-left: 0px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.sm-depo-btn-funds a {
+    font-size: 12px;
+  }
+}

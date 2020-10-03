@@ -1,0 +1,178 @@
+body{
+    background-color:#f2f2f2!important;
+    font-family: 'Roboto', sans-serif;
+}
+.bgcolor {
+   background-color:#842dce!important;
+   border-radius: 0px!important;
+   padding-bottom: 95px!important;
+}
+.jumbo-h1{
+  color: #fff!important;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    font-size: 58px;
+  font-family:Helvetica Narrow, sans-serif;
+}
+/* Styles for wrapping the search box */
+
+.search {
+    width: 50%;
+    margin: 0 auto;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.faq-search .form-control {
+    padding-left: 3.0rem;
+    height: 52px;
+}
+
+.faq-search .form-control-style {
+    position: absolute!important;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 3.3rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.mainfaq{
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+.faqicon{
+    font-size: 60px!important;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.faqmedia h4{
+   font-size: 22px;
+   font-weight: 400;
+   padding-bottom: 8px;
+}
+.faqmedia p{
+   font-size: 14px;
+}
+.faqcard{
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+.rowspace{
+    margin-top: 20px;
+}
+.topspace{
+    margin-top: 50px;
+}
+#accordion-style-1 h1,
+#accordion-style-1 a{
+    color:#007b5e;
+}
+#accordion-style-1 .btn-link {
+    font-weight: 400;
+    color: #656565;
+    background-color: transparent;
+    text-decoration: none !important;
+    font-size: 14px;
+    padding-left: 25px;
+}
+
+#accordion-style-1 .card-body {
+    border-top: 2px solid #ddd;
+}
+#accordion-style-1 .card-header {
+   background-color: #fff!important;
+   padding: 6px 10px!important;
+}
+
+#accordion-style-1 .card {
+    margin-bottom: 10px!important;
+    border: 1px solid #fff!important;
+}
+.cardbody-text{
+    font-size: 14px!important;
+    color: #656565;
+}
+.colltop{
+    margin-top: 20px;
+}
+#accordion-style-1 .card-header .btn.collapsed .fa.main{
+    display:none;
+}
+
+#accordion-style-1 .card-header .btn .fa.main{
+    background:#842dce;
+    padding: 7px 11px;
+    color: #ffffff;
+    width: 20px;
+    height: 30px;
+    position: absolute;
+    left: -1px;
+    top: 10px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    display:block;
+}
+a.custom-card,
+a.custom-card:hover {
+  color: inherit;
+  text-decoration: none!important;
+}
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+
+@media all and (max-width: 768px) {
+ .search {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+@media all and (max-width: 768px) {
+.jumbo-h1 {
+  color: #fff !important;
+  padding-bottom: 10px;
+  padding-top: 20px;
+  font-size: 25px;
+  }
+}
+
+@media all and (max-width: 768px) {
+.bgcolor {
+   padding-bottom: 50px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.faq-search .form-control {
+    padding-left: 3.0rem;
+    height: 35px;
+  }
+}
+@media all and (max-width: 768px) {
+.faq-search .form-control-style {
+    line-height: 2.3rem;
+  }
+}
+
+@media all and (max-width: 768px) {
+.mainfaq {
+    padding: 0px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+

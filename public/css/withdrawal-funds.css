@@ -1,0 +1,109 @@
+.withdrawalh5 {
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #000;
+}
+.withdrawalh5p {
+    font-size: 13px;
+    padding-bottom: 3rem !important;
+}
+.withdrawalcardbody {
+    padding: 18px!important;
+    margin-bottom: 40px;
+}
+.tr-with{
+	font-size: 14px!important;
+	color: #656565!important;
+}
+.with-fund{
+	padding-top: 9px!important;
+	padding-bottom: 0!important;
+}
+.tr2-with{
+	font-size: 14px!important;
+}
+.with-img{
+	width: 30px;
+}
+.td-with{
+    padding: 14px!important;
+}
+.td2-with{
+	padding-top: 16px!important;
+}
+.with-t {
+	margin-bottom: 0!important;
+}
+.with-cards{
+	padding-left:10px;
+	font-weight: 600;
+	font-size: 13px;
+}
+.with-cards:hover{
+	color: #842dce;
+	text-decoration: none!important;
+	cursor:pointer;
+}
+
+
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.withdrawalh5{
+    margin-left: 0px!important;
+    font-size: 17px;
+    font-weight: 600;
+    color: #000;
+    padding-top: 20px !important;
+    margin-bottom: 0px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.withdrawalh5p {
+	font-size: 12px;
+    padding-bottom: 15px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.sm-with-fundss {
+	font-size: 15px;
+	padding-left: 9px;
+    padding-top: 5px;
+  }
+}
+@media all and (max-width: 768px) {
+.tr-with {
+    font-size: 12px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.td2-with {
+    padding-top: 10px !important;
+    font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.with-fund {
+    padding: 0px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.depo-cards {
+    padding-left: 0px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.sm-with-btn-funds a {
+    font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.td-with {
+    padding: 6px !important;
+  }
+}
+
+

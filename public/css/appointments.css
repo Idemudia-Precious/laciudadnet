@@ -1,0 +1,155 @@
+
+.newappointh5{
+    font-weight: 800;
+}
+.appointmodal{
+    border-radius: 13px!important;
+}
+.modalform{
+    padding: 20px;
+}
+.modalform label{
+    font-size: 15px;
+}
+.appointdropdown a{
+  font-size: 12px;
+}
+.card-headerstrip {
+    padding-bottom: 20px;
+}
+.filter-right{
+    margin-left: 130px;
+}
+.added{
+    font-size: 13px;
+    color: red;
+    font-weight: 700;
+}
+.appoint2-top-style{
+ padding-top: 3rem !important   
+}
+.apppoint-h5-styling {
+    text-align: left;
+}
+.tabletop .table{
+    font-size:12px!important;
+    margin-top: 10px!important;
+}
+
+.tabletop .table tr{
+   cursor: pointer; 
+}
+.timee{
+    font-weight: 600;
+}
+.tabletop{
+    margin-top: 20px;
+}
+.appointtop{
+    margin:20px 0px;
+}
+.card-strip {
+    border-bottom: 1px solid lightgray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.iconappoint{
+    padding-top: 2px;
+}
+.appointh5{
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.iconphone {
+    color:#842dce;
+    padding-left: 20px;
+    cursor: pointer
+}
+.iconcom {
+    color: gray;
+    cursor: pointer
+}
+.timeh5 {
+    font-size: 14px;
+    padding-top: 4px;
+}
+.time {
+    border: 1px lightgray solid;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 4px 8px;
+    margin: 0px 6px;
+    font-size: 11px;
+    color: #636363
+}
+
+.smm-text {
+    font-size: 13px;
+}
+
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+
+@media all and (max-width: 768px) {
+  .apppt-bottom {
+    padding-bottom: 30px;
+  }
+}
+@media all and (max-width: 768px) {
+ .appoint2-top-style {
+    padding-top: 0px !important;
+  }
+}
+@media all and (max-width: 768px) {
+ .apppoint-h5-styling {
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center!important;
+  }
+}
+@media all and (max-width: 768px) {
+.appointh5 {
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.smm-text {
+    font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.time {
+    color: #000;
+  }
+}
+@media all and (max-width: 768px) {
+.timeh5 {
+    font-size: 13px;
+    padding-top: 4px;
+  }
+}
+@media all and (max-width: 768px) {
+.appoints-butn{
+    font-size: 13px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.tabletop {
+    margin-top: 8px;
+  }
+}
+@media all and (max-width: 768px) {
+.tabletop .table {
+    font-size: 12px !important;
+    margin-top: 0px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.tabletop .table td, .table th {
+    padding: .5rem!important;
+  }
+}
+

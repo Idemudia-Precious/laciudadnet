@@ -1,0 +1,92 @@
+.btn:focus, .btn:active, button:focus, button:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#image-gallery .modal-footer{
+  display: block;
+}
+
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.bus-astyling{
+    color:#000; 
+}
+.bus-astyling:hover{
+    color:#6b6565; 
+    text-decoration: none!important;
+}
+
+.sidepro-img{
+  width: 99px!important; /* You can set the dimensions to whatever you want */
+  height: 99px!important;
+  object-fit: cover!important;
+}
+.gallery-aside img {
+  width: 99px!important; /* You can set the dimensions to whatever you want */
+  height: 99px!important;
+  object-fit: cover!important;
+}
+.bus-galleryimg {
+    width: 180px!important;
+    height: 150px!important;
+    object-fit: cover!important;
+}
+.gal-edit-btn {
+    font-size: 11px!important;
+}
+.gal-name-2 {
+    font-weight: 600;
+    font-size: 13px;
+    color: #000;
+}
+.gal-name22 {
+    font-weight: 600;
+    font-size: 13px;
+    color: #000;
+    padding-top: 12px;
+}
+
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.bus-gal-alltop {
+    margin-top: 10px;
+ }
+}
+@media all and (max-width: 768px) {
+.maingal-profile {
+    padding-right: 10px!important;
+    padding-left: 10px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.bus-galleryimg {
+    width: 90px !important;
+    height: 75px !important;
+    object-fit: cover !important;
+  }
+}
+@media all and (max-width: 768px) {
+.bussiness-gallery-h5 {
+    font-size: 16px;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.bus-thumbcolumn1 {
+    padding-right: 0px!important;
+    padding-left: 5px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.bus-thumbcolumn2 {
+    padding-right: 0px!important;
+    padding-left: 5px!important;
+  }
+}
+

@@ -1,0 +1,129 @@
+body{
+    background-color:#f2f2f2!important;
+    font-family: 'Roboto', sans-serif;
+}
+.bgtermscolor {
+   background-color:#842dce!important;
+   border-radius: 0px!important;
+   padding-bottom: 73px!important;
+}
+.jumboh1-terms{
+	color: #fff!important;
+  padding-top: 10px;
+  font-size: 40px;
+  margin-left: 140px;
+	font-family:Helvetica Narrow, sans-serif;
+}
+.terms{
+  max-width: 990px;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+.list-terms a{
+  font-size: 14px;
+  color: #6b6565;
+  background-color: #f2f2f2!important;
+}
+.list-terms a:hover{
+  text-decoration: none!important;
+  color: #6b6565!important;
+}
+.privacy-card {
+  border: none;
+  border-radius: 1rem;
+  transition: all 0.2s;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.termsh5-style{
+  color: #842dce;
+  font-weight: 600;
+  padding-bottom: 15px;
+}
+.termsp-style{
+  color: #656565;
+  font-size: 14px;
+  line-height: 28px;
+}    
+.privacycardbody{
+ padding: 60px!important; 
+}
+.termsh5-style2{
+  color: #842dce;
+  font-weight: 500;
+  padding-bottom: 15px;
+  padding-top: 30px;
+}
+.termsh5-style3{
+  color: #842dce;
+  font-weight: 500;
+  padding-bottom: 15px;
+  padding-top: 30px;
+  font-size: 15px;
+}
+.ttermsh6{
+  font-size: 14px;
+}
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+
+@media all and (max-width: 768px) {
+  .bgtermscolor {
+    padding-bottom: 50px !important;
+  }
+}
+@media all and (max-width: 768px) {
+  .jumboh1-terms {
+    padding-top: 20px;
+    font-size: 25px;
+    margin-left: 70px;
+  }
+}
+@media all and (max-width: 768px) {
+  .termsh5-style {
+    font-weight: 600;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    font-size: 17px;
+  }
+}
+@media all and (max-width: 768px) {
+  body{
+    background-color: #fff!important;
+  }
+}
+@media all and (max-width: 768px) {
+  .termsp-style {
+    font-size: 13px;
+    line-height: 26px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+@media all and (max-width: 768px) {
+  .termsh5-style2 {
+    font-weight: 600;
+    padding-bottom: 5px;
+    padding-top: 16px;
+    font-size: 16px;
+    padding-left: 10px;
+  }
+}
+
+
+@media all and (max-width: 768px) {
+.termsh5-style3 {  
+    font-weight: 500;
+    padding-bottom: 5px;
+    padding-top: 16px;
+    font-size: 15px;
+    padding-left: 10px;
+  }
+}
+
+
+
+
+
+

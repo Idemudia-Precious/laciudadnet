@@ -1,0 +1,190 @@
+body { 
+	-webkit-font-smoothing: antialiased;
+	 text-rendering: optimizeLegibility;
+	  font-family: 'Overpass', sans-serif;
+	  letter-spacing: 0px;
+	  font-size: 17px;
+	  color: #8d8f90; 
+	  font-weight: 400; 
+	   background-color: #f1f1f1!important;
+	}
+
+.page-header { 
+	no-repeat;
+	position: relative; 
+	background-size: cover; 
+}
+.myimages {
+     display: flex;
+     overflow: hidden;
+     height: 30vw;
+     background: #333
+ }
+
+ .myimages img {
+     vertical-align: middle;
+     border: 2px solid white;
+     box-sizing: border-box;
+     transition: opacity .2s;
+     width: 170px!important; /* You can set the dimensions to whatever you want */
+     height: 170px!important;
+     object-fit: cover!important;
+ }
+
+ .myimages:hover img {
+     opacity: 0.5
+ }
+
+ .myimages img:hover {
+     opacity: 1
+ }
+
+ .first-column {
+     animation: var(--animation, none) 16s infinite linear
+ }
+
+ .first-column:hover {
+     animation-play-state: paused
+ }
+
+ .first-column:nth-of-type(odd) {
+     align-self: flex-end;
+     --direction: 50%
+ }
+
+ @keyframes slide {
+     to {
+         -webkit-transform: translateY(var(--direction, -50%));
+         transform: translateY(var(--direction, -50%))
+     }
+ }
+.page-title {
+ font-size: 46px; 
+ line-height: 1; 
+ color: #fff; 
+ font-weight: 600;
+  text-align: center;
+   }
+
+.card-sectionss {
+ position: relative;
+ bottom: 180px; 
+}
+.card-block {
+ padding-top: 60px;
+ padding-left: 90px;
+ padding-right: 90px;
+ padding-bottom: 16px;
+}
+.sell-section-body{
+	
+}
+.section-title { 
+	margin-bottom: 60px;
+}
+.sellinp{
+    text-align: justify;
+    color: #656565;
+    margin-top: 15px;
+    font-size: 15px;
+    padding: 1rem !important;
+}
+.sellinbutton{
+	background-color: #842dce!important;
+	border-color: #852dce!important;
+}
+.sellfooter{
+    background-color:#eae6e6!important;
+    padding: 1rem !important;
+    text-align: right;
+
+}
+.sellfooter a{
+	color: #656565;
+	font-weight:500;
+}
+.sellfooter a:hover{
+    color: #842dce;
+    font-weight:600;
+    text-decoration: none;
+}
+.backhome{
+	padding-top: 30px;
+}
+.backhome a{
+    color: #656565;
+    font-weight: 600;
+    font-size: 14px;
+}
+.backhome a:hover{
+    color: #842dce;
+    text-decoration: none;
+}
+@media all and (max-width: 768px) {
+.card-sectionss {
+    position: relative;
+    bottom: 50px;
+ }
+}
+@media all and (max-width: 768px) {
+ .myimages img {
+     vertical-align: middle;
+     border: 2px solid white;
+     box-sizing: border-box;
+     transition: opacity .2s;
+     width: 100px!important; /* You can set the dimensions to whatever you want */
+     height: 100px!important;
+     object-fit: cover!important;
+ }
+}
+@media all and (max-width: 768px) {
+ .sm-sell-column{
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+ }
+}
+ @media all and (max-width: 768px) {
+.card-block {
+    padding-top: 30px;
+    padding-left: 45px;
+    padding-right: 45px;
+ }
+}
+ @media all and (max-width: 768px) {
+.sellh4-sm {
+    font-size: 18px;
+    color:#000;
+    font-weight: 600;
+ }
+}
+ @media all and (max-width: 768px) {
+.sellinp {
+    text-align: justify;
+    color: #656565;
+    margin-top: 0px;
+    font-size: 13px;
+    line-height: 25px;
+    padding: 5px !important;
+    margin-bottom: 20px;
+ }
+}
+ @media all and (max-width: 768px) {
+.sellinbutton {
+    background-color: #842dce !important;
+   border-color:#852dce !important;
+   font-size: 13px !important;
+ }
+}
+ @media all and (max-width: 768px) {
+.sellfooter a{
+   font-size: 12px;
+ }
+}
+ @media all and (max-width: 768px) {
+.sellfooter{
+    text-align: left;
+ }
+}
+
+
+

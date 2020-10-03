@@ -1,0 +1,129 @@
+.statementh5-transfer {
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #464545;
+    margin-bottom: 30px;
+}
+.statementh5-transfer  a{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:#464545;
+}
+.statementh5-transfer  a:hover{
+    text-decoration: none!important;
+    color:#464545;
+}
+    
+.statementh5-transfer  i{
+    font-size: 24px!important; 
+}
+.statecardbody-transfer {
+    padding: 18px!important;
+    margin-bottom: 40px;
+}
+.tr-state-transfer{
+	font-size: 14px!important;
+	color: #656565!important;
+}
+.stateh5-transfer{
+	padding-left: 10px;
+}
+.state-fund-transfer{
+	margin-top: 9px!important;
+	margin-bottom: 0!important;
+	padding: 0!important;
+	box-shadow: 0 0.4rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+.state-t-transfer {
+	margin-bottom: 0!important;
+}
+.tr2-state-transfer{
+	font-size: 13px!important;
+}
+.td-state-transfer{
+    padding: 14px!important;
+}
+.td2-state-transfer{
+	padding-top: 16px!important;
+}
+.tdstate-a-transfer{
+	color: #842dce;
+}
+.tdstate-a-transfer:hover{
+	color: #842dce;
+	text-decoration: none;
+}
+
+.stdbut-transfer{
+	font-size: 11px!important;
+	background: #6c757dd4!important;
+    border-color: #858c93!important;
+}
+.stdbuta-transfer{
+	font-size: 12px!important;
+}
+.modalstate-style-transfer{
+	padding: 30px!important;
+}
+.modalstate-style-h5-deposit{
+	font-size: 15px;
+}
+.tdmodal-style-deposit{
+    color: green;
+    font-weight: 500;
+}
+
+
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.statementh5-transfer{
+    padding-top: 10px !important;
+    margin-bottom: 0px!important;
+    margin-left: 0px;
+  }
+}
+@media all and (max-width: 768px) {
+.statementh5-transfer a{
+    margin-left: 0px!important;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+  }
+}
+@media all and (max-width: 768px) {
+.statementh5-transfer i{
+    margin-left: 0px!important;
+    font-size: 17px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.stateh5-transfer {
+    font-size: 15px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.tr-state-transfer {
+    font-size: 12px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.td-state-transfer a {
+    font-size: 12px !important;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.tr2-state-transfer {
+    font-size: 12px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.statecardbody-transfer {
+    padding: 8px !important;
+  }
+}
+

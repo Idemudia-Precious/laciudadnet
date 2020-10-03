@@ -1,0 +1,142 @@
+.ordersh5-detail {
+    margin-left: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    color:#000;
+    padding-bottom: 10px;
+}
+.ordersh5-detail a{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:#000;
+}
+.ordersh5-detail a:hover{
+    text-decoration: none!important;
+    color:#000;
+}
+    
+.ordersh5-detail i{
+    font-size: 24px!important; 
+}
+
+.orddd1{
+   margin: 0 20px!important;
+   padding-bottom: 10px!important;
+   font-weight: 500;
+}
+.orddd2{
+   margin: 0 20px!important;
+   font-size: 13px;
+   color:#656565;
+}
+.orddd3{
+   margin: 0 20px!important;
+   font-size: 13px;
+   color:#656565;
+}
+.orddd4{
+   margin: 0 20px!important;
+   font-size: 13px;
+   color:#656565;
+   line-height: 26px;
+}
+.orddd5{
+   margin: 0 20px!important;
+   font-weight: 500;
+}
+.order-det3cardbody {
+    padding: 16px!important;
+}
+.order-det3cardheader{
+	background-color: #fff!important;
+}
+.order-det3status{
+	font-size: 13px;
+	font-weight: 500;
+  color:#656565;
+}
+.orderdet3 a{
+  color: #656565!important; 
+  font-weight:500!important;
+}
+.orderdet3 a:hover{
+  text-decoration: none!important;
+}
+
+.statusorder4{
+  color:#636363;
+}
+.order3media2 {
+    margin: 3px 0 !important;
+    font-size: 15px;
+    color: #282828;
+    line-height: 26px;
+}
+.orderdedet3 a{
+  color: #656565!important; 
+  font-weight:500!important;
+  font-size: 14px;
+}
+.orderdedet3 a:hover{
+ text-decoration: none!important;
+}
+.order-quality3{
+	margin-bottom: 0!important;
+    margin-top: 20px!important;
+    font-size: 14px;
+}
+.order-detcardfooter3 {
+    background-color: #fff!important;
+}
+.order-dettime-cancel {
+    font-size: 13px;
+    font-weight: 500;
+    color: #282828;
+}
+.ort3{
+	margin-top: 20px;
+}
+
+.orddd6{
+   font-weight: 500;
+   margin-left: 5px;
+   font-size: 15px;
+   margin-bottom: 0!important;
+}
+.orddd7{
+   color:#656565;
+   font-size: 13px;
+    margin-left: 5px;
+}
+.pi-orderdetails-cancel{
+   font-size: 15px;
+   font-weight: 500;
+}
+.orddd8{
+   margin-left: 5px;
+   margin-bottom: 0!important;
+   font-weight: 500;
+   margin-top: 40px;
+}
+.orddd9{
+   margin-left: 5px;
+   margin-bottom: 0!important;
+   font-size: 13px;
+   color:#656565;
+}
+.orddd10{
+   margin-left: 5px;
+   margin-bottom: 0!important;
+   font-size: 13px;
+   color:#656565;
+}
+.hp-orderdetails-cancel a{
+  color: #464545;
+  font-size: 16px;
+  padding-top: 20px;
+}
+.hp-orderdetails-cancel a:hover{
+  color: #464545;
+  text-decoration: none;
+}
+

@@ -1,0 +1,335 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Open+Sans:wght@400;700&display=swap');
+
+body {
+    background: rgba(0, 0, 0, .075)!important;
+}
+
+.containing {
+    margin-top: 50px;
+    margin-bottom: 50px
+}
+
+.stylingcol-3{
+    background: #F9F8F4;
+    text-align: center;
+    border-radius: 12px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0
+}
+.stylingcol-3 p {
+    font-size: 12px;
+    line-height: 16px;
+    padding: 0 20px 0 20px;
+    color:#868484;
+    font-weight: 500;
+}
+
+.ouruser {
+    margin-top: 60%;
+}
+.ouruser img{
+    width: 90px;
+}
+.sellingh6{
+    font-weight: bold;
+}
+
+
+.stylincol-9{
+    background: #fff;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding-bottom: 80px
+}
+
+.information {
+    margin: 0 280px 0 100px
+}
+
+.sellerform-heading {
+    color: #6b6565;
+    padding-top: 30px;
+    font-size: 23px !important;
+}
+
+.sellerform-p {
+    font-size: 13px;
+    font-weight: 500;
+    color: #656565;
+    line-height: 17px;
+    padding-bottom: 25px;
+}
+.selingsearch-span {
+    font-size: 12px;
+}
+.sellerform-control{
+    box-shadow: none!important;
+    font-size: 13px!important;
+}
+.selingsearch-form{
+    font-size: 13px!important;
+    color: #656565!important;
+    font-weight: 500!important;
+}
+.selingsearch-form-2 {
+    font-size: 14px!important;
+    color: #656565!important;
+    font-weight: 500!important;
+}
+.sellersform-styles .form-group {
+    position: relative;
+    margin-bottom: 0.5rem;
+    margin-right: 90px;
+}
+
+.sellf {
+    border-radius: 0;
+    outline: 0!important;
+    margin-top:5px!important;
+}
+.sellf-2{
+    font-size: 75%!important;
+    color: #909294b8!important;
+}
+.sellf:focus {
+    box-shadow: none;
+    border-radius: 0;
+    border: 1px solid #dae0e5;
+}
+
+.form-control-placeholder {
+    position: absolute;
+    top: 15px;
+    left: 29px;
+    transition: all 200ms;
+    opacity: 0.5;
+    font-size: 75%
+}
+
+.form-control:focus+.form-control-placeholder,
+.form-control:valid+.form-control-placeholder {
+    font-size: 60%;
+    transform: translate3d(0, -75%, 0);
+    opacity: 1;
+    top: 12px
+}
+
+.productmain-images {
+    width: 100%;
+    border: 1px solid #ddd;
+    min-height: 180px;
+    /* display: flex; */
+    padding: 5px 5px 0px 5px;
+    position: relative;
+    overflow:auto;
+}
+.productmain-images > .preview-image:first-child {
+    width: 130px!important;
+    height: 130px!important;
+    object-fit: cover!important;
+    position: relative;
+    margin-right: 2px;
+}
+
+.productmain-images > .preview-image {
+    height: 90px;
+    width: 90px;
+    position: relative;
+    margin-right: 2px;
+    float: left;
+    margin-bottom: 5px;
+}
+.uploadstyling a{
+   font-size: 13px!important;
+   margin-left: 10px;
+   color: #656565;
+}
+.uploadstyling a:hover{
+   color: #842dce;
+}
+.productmain-images > .preview-image > 
+.image-zone {
+   width: 80px!important;
+    height: 80px!important;
+    object-fit: cover!important;
+}
+.productmain-images > .preview-image > 
+.image-zone > img {
+    width: 80px!important;
+    height: 80px!important;
+    object-fit: cover!important;
+}
+
+.productmain-images > .preview-image > 
+.tools-edit-image {
+    position: absolute;
+    z-index: 100;
+    color: #fff;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 15px;
+    display: none;
+}
+.preview-image:hover > .image-zone {
+    cursor: move;
+    opacity: .5;
+}
+.preview-image:hover > .tools-edit-image,
+.preview-image:hover > .image-cancel {
+    display: block;
+}
+.btn-edit-image{
+  font-size: 11px!important;
+  font-weight: 600!important;
+}
+.ui-sortable-helper {
+    width: 90px !important;
+    height: 90px !important;
+}
+.sellin-save-button{
+    background-color: #842dce!important;
+    border-color: #852dce!important;
+}
+.savebutton-top{
+    margin-top:50px;
+}
+@media screen and (max-width: 767px) {
+    .mycol1 {
+        border-radius: 0;
+        border-top-right-radius: 12px;
+        border-top-left-radius: 12px;
+        padding: 50px 50px 50px 50px
+    }
+
+    .image {
+        margin-top: 0
+    }
+
+    .mycol2 {
+        border-radius: 0;
+        border-bottom-right-radius: 12px;
+        border-bottom-left-radius: 12px;
+        text-align: center;
+        padding-bottom: 40px
+    }
+
+    .information {
+        margin: 10px 10px 0 10px
+    }
+}
+
+@media screen and (min-width: 767px) {
+    .information {
+        margin: 0 200px 0 50px
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .information {
+        margin: 0 95px 0 100px
+    }
+}
+ @media all and (max-width: 768px) {
+.containing {
+    margin-top: 0px;
+ }
+}
+ @media all and (max-width: 768px) {
+.ouruser {
+    margin-top: 10%;
+ }
+}
+ @media all and (max-width: 768px) {
+.stylingcol-3 p {
+    font-size: 12px;
+    line-height: 16px;
+    padding: 0 28px 0 28px;
+    color: #868484;
+    font-weight: 500;
+    margin-bottom: 40px;
+ }
+@media all and (max-width: 768px) {
+.sellerform-heading {
+    color: #6b6565;
+    padding-top: 30px;
+    font-size: 14px !important;
+    font-weight: 600;
+    margin-bottom: 3px!important;
+ }
+}
+@media all and (max-width: 768px) {
+.sellerform-p {
+    font-size: 12px;
+    font-weight: 500;
+    color: #656565;
+    line-height: 17px;
+ }
+}
+@media all and (max-width: 768px) {
+.preview-img-sm {
+    width:85px;
+ }
+}
+@media all and (max-width: 768px) {
+.productmain-images > .preview-image > .image-zone > img {
+    width: 60px !important;
+    height: 60px !important;
+    object-fit: cover !important;
+    margin-top: 10px;
+ }
+}
+@media all and (max-width: 768px) {
+.uploadstyling a:hover {
+    color: #842dce;
+    text-decoration:none!important;
+ }
+}
+.uploadstyling a:hover {
+    color: #842dce;
+    text-decoration:none!important;
+}
+@media all and (max-width: 768px) {
+.sellin-save-button {
+  font-size: 13px !important;
+ }
+}
+@media all and (max-width: 768px) {
+.sellin-save-button2 {
+  font-size: 13px !important;
+ }
+}
+@media all and (max-width: 768px) {
+.sm-back-again{
+  margin-top:20px;
+ }
+}
+@media all and (max-width: 768px) {
+.sm-back-again a{
+  font-size: 17px !important;
+  color: #000;
+  font-weight: 700;
+  margin-top:10px;
+ }
+}
+@media all and (max-width: 768px) {
+.sm-back-again a:hover{
+  text-decoration: none!important;
+  color: #000!important;
+ }
+}
+@media all and (max-width: 768px) {
+.sm-back-again i{
+  font-size: 18px !important;
+ }
+}
+
+
+
+
+
+
+
+
+
+

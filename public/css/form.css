@@ -1,0 +1,68 @@
+body {
+    background-color: #f2f2f2 !important;
+    font-family: "Roboto", sans-serif !important;
+}
+
+.top-text {
+    color: #842dce;
+}
+
+.form-body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 36px 0;
+}
+
+.card-body {
+    font-size: 15px !important;
+}
+
+.form-card {
+    border: none;
+    border-radius: 7px;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.RegForm {
+    width: 75% !important;
+}
+
+legend {
+    font-size: 15px !important;
+}
+
+.form-footer .submitBtn {
+    background-color: #842dce;
+    color: #fff;
+}
+
+.form-footer {
+    width: 75%;
+    margin: auto;
+}
+
+@media all and (max-width: 768px) {
+
+    form {
+        width: 90% !important;
+    }
+
+    .form-footer {
+        width: 90%;
+    }
+}
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.form-body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0px 0;
+  }
+}
+@media all and (max-width: 768px) {
+body {
+    background: #ffff!important;
+  }
+}

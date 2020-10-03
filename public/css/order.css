@@ -1,0 +1,249 @@
+.ordercard{
+	border: none!important;
+}
+.orderbody{
+	padding: 0px!important;
+}
+.vertical a.active {
+    background-color:#842dce!important;
+    color: #fff;
+    font-weight: 600;
+}
+.vertical a:hover {
+  background-color:#f3f3f3!important;
+  color: #6b6565;
+  font-weight: 600;
+}
+.vertical a{
+	color: #000;
+	padding-top: 12px;
+	line-height: 31px;
+  font-size: 15px;
+  padding-bottom: 10px;
+  font-weight: 500;
+}
+.vertical .nav-link i{
+   font-weight: 700!important;
+	font-size: 20px!important;	
+  margin-right: 16px; 
+}
+.liside{
+    padding-left: 0px;
+    border-left: 3px solid #d8dbde;
+    border-bottom: 1px solid #d8dbde;
+    line-height: 48px;
+}
+.liside a{
+  margin:10px 40px;
+  margin: 10px 40px;
+  font-weight: 600;
+  color: #000;
+}
+.liside:hover{
+  background-color:#ededed;
+}
+.liside a:hover{
+  background-color:transparent!important;
+  text-decoration: none;
+}
+.crd-order{
+  border:none!important;
+}
+.ordersdbg{
+background:#e7e4ea;
+}
+.orderh5{
+  margin-left: 20px;
+  font-size: 22px;
+  font-weight: 400;
+  color: #000;
+}
+.ordercardbody{
+      padding: 18px!important;
+}
+.orderimg {
+    width: 90px!important;
+    border-radius: 6px;
+}
+.ordermedia2 {
+    margin: 3px 0 !important;
+    font-size: 14px;
+    color: #000;
+    line-height: 26px;
+}
+.orderdet a{
+  color:#000!important; 
+  font-weight:600!important;
+}
+.orderdet{
+    font-size: 13px;
+    margin-top: 5px;
+}
+.ordertime{
+
+	font-size: 14px !important;
+  color: #656565 !important;
+  display: block;
+}
+.ordertime2{
+  font-size: 12px;
+  font-weight: 500;
+  color: green;
+}
+.ordertime2 i{
+  font-size: 14px!important;
+}
+.ordertime3{
+  font-size: 13px;
+  font-weight: 500;
+  color: red;
+}
+.ordertime4{
+  font-size: 13px;
+  font-weight: 500;
+  color: #656565;
+}
+.ordertime5{
+  font-size: 13px;
+  font-weight: 500;
+  color: dodgerblue;
+}
+
+.ttop{
+  margin-top: 20px;
+}
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+  .sm-orderdet{
+    line-height: 16px!important;
+    margin-top: 10px!important;
+  }
+}
+@media all and (max-width: 768px) {
+  .sm-orderdet a{
+    font-size: 13px!important;
+    color: #000;
+  }
+}
+
+
+
+@media all and (max-width: 768px) {
+  .sm-orderdet a:hover{
+    color: #000;
+  }
+}
+@media all and (max-width: 768px) {
+  .sm-order-media {
+    margin: -7px;
+  }
+}
+@media all and (max-width: 768px) {
+  .ordertime {
+    font-size: 12px !important;
+    margin-bottom: 0px;
+  }
+}
+@media all and (max-width: 768px) {
+  .ordertime2 {
+    font-size: 10px;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+  .ordertime5 {
+    font-size: 10px;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+  .ordertime3 {
+    font-size: 10px;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+  .ordertime4 {
+    font-size: 10px;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+  .smorderdet a{
+    font-size: 17px;
+    font-weight: 600;
+    color: #000
+  }
+}
+@media all and (max-width: 768px) {
+  .smorderdet a:hover{
+    text-decoration: none!important;
+    color: #000
+  }
+}
+@media all and (max-width: 768px) {
+body{
+   background-color: #ffff !important;
+  }
+}
+@media all and (max-width: 768px) {
+.ordermedia2 {
+    margin: 10px 0 !important;
+    font-size: 13px;
+    line-height: 18px;
+  }
+}
+@media all and (max-width: 768px) {
+.orderdet a {
+    color: #000 !important;
+    font-weight: 600 !important;
+    font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.orderimg {
+    width: 85px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.order-detailh5 {
+    margin-left: 0px!important;
+    font-size: 17px!important;
+    font-weight: 400!important;
+    color: #000!important;
+    padding-bottom: 0px !important;
+    padding-top: 10px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.vertical a {
+    font-size: 14px;
+    line-height: 26px;
+  }
+}
+@media all and (max-width: 768px) {
+.vertical .nav-link i{
+    font-size: 18px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.orderh5 {
+    margin-left: 0px;
+  }
+}
+@media all and (max-width: 768px) {
+.ordercardbody {
+    padding: 6px !important;
+  }
+}
+
+
+
+
+
+
+
+

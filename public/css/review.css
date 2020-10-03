@@ -1,0 +1,150 @@
+.reviewh5{
+  margin-left: 20px;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #464545;
+}
+.revpending a{
+  font-weight: 500;
+  color: #842dce;
+  font-size: 15px;
+}
+.revpending a:hover{
+  text-decoration: none!important;
+  cursor: pointer;
+  color:#656565!important; 
+
+}
+.reviewcardbody{
+      padding: 18px!important;
+}
+.reviewttop {
+    margin-top: 20px;
+}
+.reviewimg {
+    width: 90px!important;
+    border-radius: 6px;
+}
+.reviewmedia2 {
+    margin: 3px 0 !important;
+    font-size: 15px;
+    color: #282828;
+    line-height: 26px;
+}
+.reviewdet{
+    font-size: 13px;
+    margin-top: 5px;
+}
+.reviewdet a{
+  color:#656565!important; 
+  font-weight:600!important;
+}
+.reviewtime{
+  font-size: 14px !important;
+  color: #656565 !important;
+  display: block;
+}
+.reviewtime2{
+  font-size: 13px;
+  font-weight: 500;
+  color: green;
+}
+
+
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.reviewh5 a {
+    margin-left: 0px!important;
+    font-size: 17px!important;
+    font-weight: 600!important;
+    color: #000!important;
+  }
+}
+
+@media all and (max-width: 768px) {
+.reviewh5 {
+    padding-bottom: 0px !important;
+    padding-top: 10px !important;
+  }
+}
+
+@media all and (max-width: 768px) {
+.reviewh5 i{
+    margin-left: 0px!important;
+    font-size: 17px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.revpending{
+    margin-left: 10px!important;
+    font-size: 15px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.reviewmedia2 {
+    margin: 3px 0 !important;
+    font-size: 13px;
+    color: #000;
+    line-height: 18px;
+  }
+}
+@media all and (max-width: 768px) {
+.reviewdet {
+    font-size: 12px;
+    margin-top: 8px;
+  }
+}
+@media all and (max-width: 768px) {
+.reviewtime {
+    font-size: 11px !important;
+    color:#656565 !important;
+    margin-bottom: 0px!important;
+    padding-left: 55px;
+  }
+}
+@media all and (max-width: 768px) {
+.reviewtime2 {
+    font-size: 10px;
+    font-weight: 500;
+    color: green;
+    padding-left: 55px;
+  }
+}
+
+@media all and (max-width: 768px) {
+.reviewh5 {
+    margin-left: 0px;
+  }
+}
+
+@media all and (max-width: 768px) {
+.reviewcardbody {
+    padding: 7px !important;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+.deposith5 {
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #000;
+}
+.deposith5p {
+    font-size: 13px;
+}
+.depositcardbody {
+    padding: 18px!important;
+    margin-bottom: 40px;
+}
+.tr-deposit{
+	font-size: 14px!important;
+	color: #656565!important;
+}
+.cd-deposit{
+	padding-top: 9px!important;
+	padding-bottom: 0!important;
+}
+.tr2-deposit{
+	font-size: 14px!important;
+}
+.tr-img{
+	width: 60px;
+}
+.td-deposit{
+    padding: 8px!important;
+}
+.td2-deposit{
+	padding-top: 16px!important;
+}
+.deposit-t {
+	margin-bottom: 0!important;
+}
+.depo-cards{
+	padding-left:10px;
+	color: red;
+	font-weight: 600;
+	font-size: 13px;
+}
+.depo-cards:hover{
+	color: #842dce;
+	text-decoration: none!important;
+	cursor:pointer;
+}

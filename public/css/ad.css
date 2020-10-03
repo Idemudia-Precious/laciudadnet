@@ -1,0 +1,594 @@
+body {
+    background: rgba(0, 0, 0, .075)!important;
+}
+.bbbootstrap {
+    background-color: #842dce;
+    padding: 60px 0 30px 0
+}
+
+.bbbootstrap {
+    margin-bottom: 40px;
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+    background-color: #842dce;
+    -webkit-box-shadow: 0 15px 15px -15px rgba(0, 0, 0, 0.25) inset, 0 -15px 15px -15px rgba(0, 0, 0, 0.25) inset;
+    box-shadow: 0 15px 15px -15px rgba(0, 0, 0, 0.25) inset, 0 -15px 15px -15px rgba(0, 0, 0, 0.25) inset
+}
+
+.bbbootstrap form {
+    position: relative;
+    width: 540px;
+    margin: 22px auto 20px;
+}
+
+span {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline
+}
+
+.bbbootstrap form input[type="text"] {
+    padding: 15px 20px;
+    padding-right: 100px;
+    border-color: transparent;
+    border-radius: 4px
+}
+
+input.InputBox {
+    font-family: "lucida grande", "Lucida Sans Unicode", tahoma, sans-serif;
+    color: #333;
+    font-size: 15px;
+    padding: 3px;
+    margin: 0;
+    width: 250px;
+    background: #fff;
+    border: 1px solid #999;
+    border: 1px solid rgba(0, 0, 0, 0.4)
+}
+
+input[type=text] {
+    box-sizing: border-box
+}
+
+.InputBox {
+    display: block;
+    width: 100% !important;
+    padding: 6px 12px;
+    font-size: 15px;
+    line-height: 22px;
+    border-radius: 4px
+}
+
+.bbbootstrap form input[type="submit"] {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    float: right;
+    padding: 10px 25px
+}
+
+body .Button,
+body .button {
+    background-color: #842dcea6;
+    background-image: none
+}
+
+input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer
+}
+
+.Button,
+.Button:hover,
+.Button:focus,
+.Button:active {
+    text-shadow: none;
+    border-color: transparent;
+}
+
+.Button {
+    display: inline-block;
+    padding: 6px 12px;
+    vertical-align: middle;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 22px;
+    text-transform: uppercase;
+    border: transparent solid 1px;
+    border-radius: 3px;
+    -webkit-transition: -webkit-box-shadow 50ms;
+    transition: -webkit-box-shadow 50ms;
+    -o-transition: box-shadow 50ms;
+    transition: box-shadow 50ms;
+    transition: box-shadow 50ms, -webkit-box-shadow 50ms;
+    -webkit-font-smoothing: inherit;
+    color: #fff;
+    background-color: #2e9df7;
+    background-repeat: repeat-x;
+    background-color: #38a2f7;
+    background-image: -webkit-linear-gradient(#38a2f7, #2498f7);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#38a2f7), to(#2498f7));
+    background-image: -o-linear-gradient(#38a2f7, #2498f7);
+    background-image: linear-gradient(#38a2f7, #2498f7)
+}
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Open+Sans:wght@400;700&display=swap');
+
+body {
+    background: rgba(0, 0, 0, .075)!important;
+}
+.adtoping-style{
+    padding-bottom: 80px!important;
+}
+.ads-information {
+    margin: 0 100px 0 20px;
+}
+
+.sellerform-heading {
+    color: #6b6565;
+    padding-top: 30px;
+    font-size: 22px !important;
+    line-height: 17px;
+    margin-bottom: 50px!important;
+    font-weight: 600;
+}
+.sellerform-heading a{
+    color: #000;
+}
+.sellerform-heading a:hover{
+    color: #000;
+    text-decoration: none;
+}
+.sellerform-heading i{
+    font-size: 22px;
+}
+.smallform{
+    font-size: 11px!important;
+}
+.formlabel-ad {
+    display: block;
+    margin-bottom: .375rem;
+    font-weight: 500;
+    font-size: .875rem;
+    color: #656565;
+}
+.upload-details{
+   margin-left: 1rem !important;
+   margin-top: .5rem !important; 
+}
+.upload-details h6{
+  margin-top: 1rem !important;
+  margin-bottom: 0 !important;
+}
+.adsposting{
+  font-size: 13px!important;
+  text-decoration: none!important;
+}
+.custfile {
+    position: relative!important;
+    z-index: 2!important;
+    width: 100%!important;
+    height: 2.375rem!important;
+    margin: 0!important;
+    opacity: 0!important;
+}
+.custlabel{
+    font-size: 13px!important;
+}
+.uploadimg{
+    width: 75px!important;
+    height: 75px!important;
+    object-fit: cover!important;
+}
+.selingsearch-form{
+    font-size: 13px!important;
+    color: #656565!important;
+    font-weight: 500!important;
+}
+.selingsearch-form-2 {
+    font-size: 14px!important;
+    color: #656565!important;
+    font-weight: 500!important;
+}
+.sellersform-styles .form-group {
+    position: relative;
+    margin-bottom: 0.5rem;
+    margin-right: 90px;
+}
+.btn-icon{
+    margin-top: 1.5rem !important;
+}
+.ads-save-button {
+    background-color: #842dce !important;
+    border-color:#852dce !important;
+}
+.sellf {
+    border-radius: 0;
+    outline: 0!important;
+    margin-top:5px!important;
+    font-size: 13px!important;
+}
+.sellf-2{
+    font-size: 75%!important;
+    color: #909294b8!important;
+}
+.sellf:focus {
+    box-shadow: none;
+    border-radius: 0;
+    border: 1px solid #dae0e5;
+}
+.btn-edit-image{
+  font-size: 11px!important;
+  font-weight: 600!important;
+}
+.ui-sortable-helper {
+    width: 90px !important;
+    height: 90px !important;
+}
+.sellin-save-button{
+    background-color: #842dce!important;
+    border-color: #852dce!important;
+}
+.savebutton-top{
+    margin-top:50px;
+}
+
+
+.subscription {
+    background: #fafafa!important;
+    padding-top: 36px;
+    padding-bottom: 30px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.1)
+}
+
+.subscription-container {
+    width: 100%
+}
+
+.subscription-title-container {
+    width: 40%;
+}
+
+.subscription-title a{
+    font-size: 18px;
+    color: #656656;
+    font-weight: 600;
+}
+.subscription-title a:hover{
+    color: #842dce;
+}
+
+
+.subscription-text p:last-child {
+    margin-bottom: 0;
+    font-size: 13px;
+    color: #656565;
+}
+.subscription-content {
+    width: 70%
+}
+
+.subscription-form {
+    position: relative;
+    width: 569px;
+    float: left
+}
+
+.subscription-input {
+    width: 100%;
+    height: 50px;
+    background: #FFFFFF;
+    border: solid 1px #e5e5e5;
+    border-radius: 5px;
+    padding-left: 25px;
+    font-size: 16px;
+    outline: none;
+    color: #0e8ce4
+}
+
+.subscription-input:focus {
+    border: solid 1px rgba(14, 140, 228, 0.3);
+    box-shadow: 0px 1px 5px rgba(14, 140, 228, 0.3)
+}
+
+.subscription-input::-webkit-input-placeholder {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.3)
+}
+
+.subscription-input:-moz-placeholder {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.3)
+}
+
+.subscription-input::-moz-placeholder {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.3)
+}
+
+.subscription-input:-ms-input-placeholder {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.3)
+}
+
+.subscription-input::input-placeholder {
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.3)
+}
+
+.subscription-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 153px;
+    height: 50px;
+    background: #842dce;
+    color: #FFFFFF;
+    line-height: 50px;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer
+}
+
+.subscription-button:hover {
+    opacity: 0.8
+}
+.post-bred li{
+   display:inline-block; 
+   font-size: 14px;
+}
+.pos-ad-bred{
+  margin-bottom: 40px;
+}
+.active-li-post{
+  color:#8D8E92;
+}
+.li-postd a{
+  color: #000;
+}
+.li-postd a:hover{
+  color: #000;
+}
+
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media only screen and (max-width: 1199px) {
+  .pos-ad-bred{
+     margin-bottom: 5px;
+     margin-top: 3px;
+    }
+}
+@media only screen and (max-width: 1199px) {
+  .post-bred{
+     margin-bottom: 0px!important;
+    }
+}
+@media only screen and (max-width: 1199px) {
+  .post-bred li{
+   font-size: 12px;
+    }
+}
+@media only screen and (max-width: 1199px) {
+  .ads-information {
+    margin: 0 10px 0 0px;
+    }
+}
+
+
+@media only screen and (max-width: 1199px) {
+    .subscription-form {
+        width: 456px
+    }
+}
+@media only screen and (max-width: 1199px) {
+    .sellf {
+    font-size: 12px!important;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .subscription-title-container {
+        width: 100%
+    }
+
+    .subscription-content {
+        width: 100%;
+        margin-top: 30px
+    }
+
+    .subscription-form {
+        width: calc(100% - 114px)
+    }
+
+    .footer_col:not(:last-child) {
+        margin-bottom: 40px
+    }
+}
+
+
+@media all and (max-width: 768px) {
+.bbbootstrap {
+    padding: 40px 0 30px 0;
+    margin-bottom: 0px;
+  }
+}
+@media all and (max-width: 768px) {
+.bbbootstrap form {
+    position: relative;
+    width: 310px;
+    margin: 12px auto 10px;
+  }
+}
+@media all and (max-width: 768px) {
+.bbbootstrap form input[type="text"] {
+    padding: 10px 10px;
+    font-size: 13px;
+  }
+}
+@media all and (max-width: 768px) {
+.bbbootstrap form input[type="submit"] {
+    padding: 5px 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.bbbootstrap p{
+   font-size: 12px;
+  }
+}
+@media all and (max-width: 768px) {
+.bbbootstrap h5{
+   font-size: 17px;
+   font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.sellerform-heading {
+    color: #000;
+    padding-top: 30px;
+    font-size: 16px !important;
+    line-height: 17px;
+    margin-bottom: 20px !important;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.sellerform-heading a{
+    color: #000;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.sellerform-heading a:hover{
+    color: #000;
+    text-decoration: none;
+  }
+}
+@media all and (max-width: 768px) {
+.sellerform-heading i{
+   font-size: 16px;
+  }
+}
+@media all and (max-width: 768px) {
+.uploadimg {
+    width: 60px !important;
+    height: 60px !important;
+    object-fit: cover !important;
+  }
+}
+@media all and (max-width: 768px) {
+.upload-details {
+    margin-left: 12px !important;
+    margin-top: 0px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.upload-details h6 {
+    margin-top: 10px !important;
+    font-size: 13px;
+  }
+}
+@media all and (max-width: 768px) {
+.ads-save-button {
+    font-size: 13px!important;
+    font-weight:600!important;  
+  }
+}
+
+    
+
+@media all and (max-width: 768px) {
+.btn-icon {
+    margin-top: 14px !important;
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 575px) {
+    h2 {
+        font-size: 24px
+    }
+
+    .subscription-form {
+        float: none;
+        width: 100%
+    }
+
+    .subscription-title-container {
+        padding-left: 0px;
+        text-align: center
+    }
+
+  
+    .subscription-title a {
+        font-size: 16px
+    }
+
+
+
+    .subscription-content {
+        position: relative;
+        top: auto;
+        right: auto;
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+        transform: translateX(-50%);
+        width: 113px;
+        height: 40px;
+        background: #0e8ce4;
+        color: #FFFFFF;
+        line-height: 40px;
+        font-size: 12px;
+        border: none;
+        outline: none;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        cursor: pointer;
+        margin-top: 20px
+    }
+
+    .subscription-input {
+        font-size: 13px;
+        padding-left: 15px;
+        height: 40px;
+        line-height: 40px
+    }
+
+    .subscription-input::-webkit-input-placeholder {
+        font-size: 13px
+    }
+
+    .subscription-input:-moz-placeholder {
+        font-size: 13px
+    }
+
+    .subscription-input::-moz-placeholder {
+        font-size: 13px
+    }
+
+    .subscription-input:-ms-input-placeholder {
+        font-size: 13px
+    }
+
+    .subscription-input::input-placeholder {
+        font-size: 13px
+    }
+}
+
+
+
+
+

@@ -1,0 +1,75 @@
+body , html{
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+body{
+	font-family: 'segoe UI', Helvetica Nenu, Helvetica, 'Lucida Sans','Lucida Sans Regular','Lucida Grande','Lucida Sans Unicode',Geneva, Verdana, sans-seriff;
+	background-image: linear-gradient(250deg, #dddbd1, #d2dbdc);
+
+}
+.top{
+	height: 140px;
+	width: 100%;
+	background-color:#842dce;
+	position: fixed;
+	z-index: -1;
+}
+.chatbox{
+	height: calc(100% - 40px);
+	width: 95%!important;
+	margin-top: 20px;
+	padding:0!important;
+}
+.cardhead-style{
+	background-color: #b7acac0f!important;
+}
+
+.profile-img{
+	height: 40px; 
+	width: 40px;
+}
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute!important;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+.roundedform{
+	border-radius: 1rem!important;
+}
+.citizens-img{
+	height: 50px;
+	width: 50px;
+}
+.citizens-name{
+	color: #000;
+	font-weight: 400;
+}
+.citizens-text{
+	font-size: 12px;
+	line-height: 15px;
+	max-height: 15px;
+}
+.iconstyle{
+	font-size: 18px!important;
+    color: #9ca183!important;
+    padding-top: 8px;
+    margin-left: 110px;
+}
+.citizens-style{
+	cursor: pointer;
+}

@@ -1,0 +1,93 @@
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+  .order-detail3h5 {
+    padding-bottom: 0px!important;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .order-detail3h5 a {
+    font-size: 17px!important;
+    font-weight: 600;
+  }
+}
+
+@media all and (max-width: 768px) {
+.order-detail3h5 i {
+    font-size: 17px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.sm-card-body-seller{
+    padding: 5px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.orddd1 {
+    margin: 0 20px !important;
+    padding-bottom: 4px !important;
+    font-size: 14px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.orddd2 {
+    font-size: 11px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.orddd3 {
+    font-size: 11px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.orddd4 {
+    font-size: 11px!important;
+    line-height: 18px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.orddd6 {
+    font-size: 14px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.orddd7 {
+    color: #959595;
+    font-size: 12px;
+    margin-left: 5px;
+  }
+}
+@media all and (max-width: 768px) {
+.orddd9 {
+    color: #959595;
+    font-size: 12px;
+    margin-left: 5px;
+  }
+}
+@media all and (max-width: 768px) {
+.orddd10 {
+    color: #959595;
+    font-size: 12px;
+    margin-left: 5px;
+  }
+}
+@media all and (max-width: 768px) {
+.order3media2{
+    font-size: 14px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.pi-orderdetails-cancel{
+    font-size: 14px;
+    font-weight: 600;
+    color:#000;
+  }
+}
+@media all and (max-width: 768px) {
+.sm-seller-card-top {
+    margin-top:20px;
+  }
+}

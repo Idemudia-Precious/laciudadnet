@@ -1,0 +1,221 @@
+.breadcrumb-not{
+  padding: 20px;
+}
+.breadcrumb-area .breadcrumb-not ul li a {
+    font-size: 14px;
+    color: #444444;
+}
+.breadcrumb-area .breadcrumb-not ul li {
+    font-size: 14px;
+    color: #8D8E92;
+    text-transform: uppercase;
+}
+.section3{
+  margin-bottom: 60px;
+}
+.not-content{
+  margin-top: 40px;
+  line-height: 1.6;
+}
+.notih5{
+  font-size: 22px;
+    font-weight: 400;
+}
+.sideicon{
+    margin-top: 3px;
+}
+.sideicon i{
+    -webkit-text-stroke: 1px white;
+}
+.icondropdown {
+    font-size: 12px!important;
+}
+.notimg{
+  width: 45px!important;
+}
+.notmedia{
+    margin: 3px 0 !important;
+    font-size: 14px;
+}
+.notmedia a{
+  color: #000;
+  font-weight: 600;
+  margin-right: 10px;
+}
+.notmedia2{
+  margin: 3px 0 !important;
+  font-size: 14px;
+}
+.notmedia2 a{
+  color: #000;
+  font-weight: 600;
+}
+.notmedia22 {
+  margin-right: 10px;
+}
+.media-p{
+  font-size: 12px;
+}
+.option1{
+  margin-right:25px;
+  color: dodgerblue;
+  font-weight: 600;
+  font-size: 13px;
+}
+.option1:hover{
+  text-decoration: none;
+  color: #656565;
+}
+.option2{
+  color: red;
+  font-weight: 600;
+  font-size: 13px;
+}
+.option2:hover{
+  text-decoration: none;
+  color: #656565;
+}
+.medtime {
+    font-size: 12px !important;
+    color: #656565 !important;
+    display: block;
+}
+
+.bdge {
+    height: 21px;
+    background-color: orange;
+    color: #fff;
+    font-size: 11px;
+    padding: 8px;
+    border-radius: 4px;
+    line-height: 3px
+}
+
+.dot {
+    height: 7px;
+    width: 7px;
+    margin-top: 3px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block
+}
+
+.hit-voting:hover {
+    color: blue
+}
+
+.hit-voting {
+    cursor: pointer
+}
+
+.servicedrop {
+    transition-delay: 1s
+}
+
+.action-collapse {
+    cursor: pointer
+}
+.more{
+  margin-left: 5px;
+}
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+
+@media all and (max-width: 768px) {
+  .not-content {
+    margin-top: 30px;
+  }
+}
+@media all and (max-width: 768px) {
+  .notih5 {
+    font-size: 14px;
+    padding-top: 13px;
+  }
+}
+@media all and (max-width: 768px) {
+  .notmedia {
+    font-size: 13px!important;
+  }
+}
+@media all and (max-width: 768px) {
+  .notimg {
+    width: 40px!important;
+  }
+}
+@media all and (max-width: 768px) {
+  .notmedia a:hover{
+    color: #656565;
+  }
+}
+@media all and (max-width: 768px) {
+  .notmedia2 a:hover{
+    color: #656565;
+  }
+}
+@media all and (max-width: 768px) {
+  .notmedia2 {
+    font-size: 13px!important;
+  }
+}
+@media all and (max-width: 768px) {
+ .notcard-body{
+    padding: 0px!important;
+    }
+}
+
+
+@media all and (max-width: 768px) {
+.netmedia2 {
+    margin: 0px 0 !important;
+  }
+}
+@media all and (max-width: 768px) {
+  .netmedia2 a {
+    font-size: 13px;
+    color: #000;
+    font-weight: 700;
+  }
+}
+@media all and (max-width: 768px) {
+  .nettime {
+    font-size: 11px!important;
+  }
+}
+@media all and (max-width: 768px) {
+ .cardbox-base .crd-li a span {
+    font-size: 12px;
+    }
+}
+@media all and (max-width: 768px) {
+.iconcomnet {
+    font-size: 14px !important;
+    }
+}
+@media all and (max-width: 768px) {
+.not-badge {
+    padding: 4px!important;
+    }
+}
+
+@media all and (max-width: 768px) {
+.not-badges {
+    padding: 3px!important;
+    }
+}
+@media all and (max-width: 768px) {
+.notmedia2 a {
+    line-height: 18px;
+    }
+}
+@media all and (max-width: 768px) {
+.breadcrumb-area .breadcrumb-not ul li a {
+    font-size: 12px;
+    }
+}
+@media all and (max-width: 768px) {
+.breadcrumb-area .breadcrumb-not ul li {
+    font-size: 12px;
+    }
+}

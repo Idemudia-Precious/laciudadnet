@@ -1,0 +1,154 @@
+.net-content {
+    margin-top: 40px;
+    line-height: 1.6;
+  }
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff!important;
+    background-color: #842dce!important;
+}
+.nettop{
+	margin-top: 50px;
+}
+.netimg{
+    width: 50px!important;
+    margin-top: 3px;
+}
+.notmedia{
+    margin: 3px 0 !important;
+    font-size: 14px;
+
+}
+.netmedia a{
+  color: #635b5b;
+  font-weight: 600;
+  margin-right: 10px;
+}
+.netmedia2{
+  margin: 3px 0 !important;
+}
+.netmedia2 a{
+  color: #635b5b;
+  font-weight: 600;
+  font-size: 16px;
+}
+.netmedia2 a:hover{
+  color: #842dce;
+  text-decoration: none!important;
+}
+
+.notmedia22 {
+  margin-right: 10px;
+}
+.nettime {
+    font-size: 12px !important;
+    color: #656565 !important;
+    display: block;
+}
+.netdropdown {
+    font-size: 14px!important;  
+    min-width: 100px!important;
+}
+.nettbutton {
+    margin-top: 6px;
+    margin-left: 40px;
+    font-size: 12px;
+}
+.nettbutton button {
+    font-size: 12px;
+}
+.iconcomnet {
+    color: gray;
+    cursor: pointer;
+    font-size: 20px!important;
+    margin-left: 10px;
+}
+.mediahr{
+  border-bottom: 1px solid #e5e5e5;
+}
+/* ------------------------------- */
+/* Cardbox Base
+---------------------------------- */
+.cardbox-base .crd-ul{
+ padding: 2px !important;
+ font-size: 0px;  
+  display: inline-block;
+}
+.cardbox-base .crd-li{
+  list-style: none;
+  margin: 0px 0px 0px -8px !important;
+  padding: 0px 0px 0px 0px !important;
+  display: inline-block;
+}
+
+.cardbox-base .crd-li a span{
+ font-size: 14px;
+ color: #8d8d8d;
+ margin-left: 20px;
+ position: relative;
+ top: 5px; 
+}
+.cardbox-base .crd-li a img{
+  width: 25px;
+  height: 25px;
+  margin: 0px !important;
+  border: 2px solid #fff;
+}
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+
+@media all and (max-width: 768px) {
+  .net-content {
+    margin-top: 30px;
+  }
+}
+@media all and (max-width: 768px) {
+  .net-header {
+    padding: 14px 4px!important;
+    font-size: 13px;
+  }
+}
+@media all and (max-width: 768px) {
+  .nettop {
+    margin-top: 25px;
+  }
+}
+@media all and (max-width: 768px) {
+  .netimg {
+    width: 45px!important;
+  }
+}
+
+@media all and (max-width: 768px) {
+.netmedia2 {
+    margin: 0px 0 !important;
+  }
+}
+@media all and (max-width: 768px) {
+  .netmedia2 a {
+    font-size: 13px;
+    color: #000;
+    font-weight: 700;
+  }
+}
+@media all and (max-width: 768px) {
+  .nettime {
+    font-size: 11px!important;
+  }
+}
+@media all and (max-width: 768px) {
+ .cardbox-base .crd-li a span {
+    font-size: 12px;
+    }
+}
+@media all and (max-width: 768px) {
+.iconcomnet {
+    font-size: 14px !important;
+    }
+}
+@media all and (max-width: 768px) {
+ .netcard-body{
+    padding: 0px!important;
+    }
+}

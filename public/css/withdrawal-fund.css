@@ -1,0 +1,47 @@
+.withdrawalh5 {
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #000;
+}
+.withdrawalh5p {
+    font-size: 13px;
+}
+.withdrawalcardbody {
+    padding: 18px!important;
+    margin-bottom: 40px;
+}
+.tr-with{
+	font-size: 14px!important;
+	color: #656565!important;
+}
+.with-fund{
+	padding-top: 9px!important;
+	padding-bottom: 0!important;
+}
+.tr2-with{
+	font-size: 14px!important;
+}
+.with-img{
+	width: 30px;
+}
+.td-with{
+    padding: 14px!important;
+}
+.td2-with{
+	padding-top: 16px!important;
+}
+.with-t {
+	margin-bottom: 0!important;
+}
+.with-cards{
+	padding-left:10px;
+	color: red;
+	font-weight: 600;
+	font-size: 13px;
+}
+.with-cards:hover{
+	color: #842dce;
+	text-decoration: none!important;
+	cursor:pointer;
+}

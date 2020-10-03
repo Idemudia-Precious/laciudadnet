@@ -1,0 +1,99 @@
+
+.withrh5 {
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #464545;
+    margin-bottom: 30px;
+}
+.withrh5 a{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:#464545;
+}
+.withrh5  a:hover{
+    text-decoration: none!important;
+    color:#464545;
+}
+    
+.withrh5  i{
+    font-size: 24px!important; 
+}
+.withrcardbody {
+    padding: 18px!important;
+    margin-bottom: 40px;
+}
+.wirth-img{
+    width:48px!important;
+}
+.withr-span{
+    color:#656565;
+    margin-left: 13px;
+}
+.stylelabel{
+    font-size: 14px!important;
+    font-weight: 500!important;
+    color: #656565!important;
+}
+.styleselect{
+    font-size: 13px!important; 
+}
+.box-body-wr{
+   margin-bottom: 3rem !important;
+}
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.withrh5 {
+     margin-left: 0px;
+  }
+}
+@media all and (max-width: 768px) {
+.withrh5 a {
+    font-size: 16px;
+  }
+}
+@media all and (max-width: 768px) {
+.withrh5 i{
+    font-size: 17px!important; 
+  }
+}
+@media all and (max-width: 768px) {
+.withrcardbody{
+    padding: 6px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.wirth-img {
+    width: 30px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.withr-span {
+    margin-left: 10px;
+    font-size: 13px;
+  }
+}
+@media all and (max-width: 768px) {
+.stylelabel {
+    font-size: 12px !important;
+    font-weight: 700 !important;
+  }
+}
+@media all and (max-width: 768px) {
+.styleselect {
+    font-size: 12px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.box-body-wr{
+   margin-bottom: 1.5rem !important;
+  }
+}
+
+
+
+
+
+

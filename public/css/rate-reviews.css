@@ -1,0 +1,188 @@
+.ratereviewh5{
+  margin-left: 20px;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #464545;
+}
+.ratereviewh5 a{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:#464545;
+}
+.ratereviewh5 a:hover{
+    text-decoration: none!important;
+    color:#464545;
+}
+    
+.ratereviewh5 i{
+    font-size: 24px!important; 
+}
+.ratereviewh5-second{
+  margin-top: 30px;
+  margin-left: 30px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #656565;
+}
+
+.ratereviewimg {
+    width: 100px!important;
+    border-radius: 6px;
+    margin-left: 30px;
+}
+.ratereviewmedia2 {
+    margin: 3px 0 !important;
+    font-size: 14px;
+    color: #282828;
+    line-height: 26px;
+}
+
+/*stars*/
+.starrating{
+  margin-top: 30px; 
+  margin-right: 450px;
+}
+.starrating > input {
+  display: none;
+}  /* Remove radio buttons */
+
+.starrating > label:before { 
+  content: "\f005"; /* Star */
+  margin: 2px;
+  font-size: 2em;
+  font-family: FontAwesome;
+  display: inline-block; 
+}
+
+.starrating > label{
+  color: #a9a6a6;
+  margin: 5px;
+  /* Start color when not clicked */
+}
+
+.starrating > input:checked ~ label{
+  color: #ffca08 ;
+}
+ /* Set yellow color when star checked */
+
+.starrating > input:hover ~ label{
+  color: #ffca08 ; 
+}
+ /* Set yellow color when star hover */
+.rate-reviewpp{
+  margin-left: 30px;
+  color: #282828;
+  font-weight: 500;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.rate-reviewform{
+  margin-left: 80px;
+  line-height: 38px;
+}
+.ratereview-but {
+    background-color: #842dce!important;
+    border-color: #842dce!important;
+    font-weight: 600!important;
+}
+.ratereview-but:hover {
+    background-color: #fff!important;
+    border-color: #842dce!important;
+    color: #842dce!important; 
+}
+.ratereviewcon-but{
+  margin-bottom: 30px;
+}
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.ratereviewh5 a {
+    margin-left: 0px!important;
+    font-size: 17px!important;
+    font-weight: 600!important;
+    color: #000!important;
+  }
+}
+@media all and (max-width: 768px) {
+.ratereviewh5 {
+    margin-left: 0px!important;
+    padding-bottom: 0px !important;
+    padding-top: 10px !important;
+  }
+}
+
+@media all and (max-width: 768px) {
+.ratereviewh5 i{
+    margin-left: 0px!important;
+    font-size: 17px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.ratereviewh5-second {
+    margin-top: 0px;
+    margin-left:7px;
+    font-size: 11px;
+    font-weight: 500;
+    color: #656565;
+  }
+}
+@media all and (max-width: 768px) {
+.ratereviewmedia2 {
+    margin: 0px 0 !important;
+    font-size: 13px;
+    color: #282828;
+    line-height: 18px;
+  }
+}
+@media all and (max-width: 768px) {
+.starrating {
+    margin-top: 20px;
+    margin-right: 26px;
+  }
+}
+@media all and (max-width: 768px) {
+.starrating > label{
+  color: #a9a6a6;
+  margin: 6px;
+  font-size: 8px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.rate-reviewpp{
+  font-size:14px;
+  font-weight: 600;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  }
+}
+@media all and (max-width: 768px) {
+.rate-reviewform{
+  margin-left: 15px;
+  line-height: 38px;
+  }
+}
+@media all and (max-width: 768px) {
+.sm-label-review{
+  font-size: 14px!important;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

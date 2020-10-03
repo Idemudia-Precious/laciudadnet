@@ -1,0 +1,31 @@
+.edtitop{
+	margin-top: 40px;
+}
+.editcardsttyle{
+	border:none!important;
+}
+.edtitoplabel{
+	font-size: 13px!important;
+	color: #656565!important;
+}
+.profiletabs .nav-link.active {
+    color: #842dce!important;
+}
+
+ .profiletabs .nav-link {
+     font-size: 15px;
+     font-weight: 500;
+     padding: 1rem!important;
+     color: #635b5b;
+     position: relative;
+}
+ .profiletabs .nav-link.active:after {
+     content: "";
+    background-color: #842dce!important;
+     height: 3px;
+     position: absolute;
+     bottom: -2px;
+     left: 0;
+     right: 0;
+}
+

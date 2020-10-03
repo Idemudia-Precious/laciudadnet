@@ -1,0 +1,131 @@
+.statementh5-withdrawals {
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #464545;
+    margin-bottom: 30px;
+}
+.statementh5-withdrawals a{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:#464545;
+}
+.statementh5-withdrawals  a:hover{
+    text-decoration: none!important;
+    color:#464545;
+}
+    
+.statementh5-withdrawals  i{
+    font-size: 24px!important; 
+}
+.statecardbody-withdrawals {
+    padding: 18px!important;
+    margin-bottom: 40px;
+}
+.tr-state-withdrawals{
+	font-size: 14px!important;
+	color: #656565!important;
+}
+.stateh5-withdrawals{
+	padding-left: 10px;
+}
+.state-fund-withdrawals{
+	margin-top: 9px!important;
+	margin-bottom: 0!important;
+	padding: 0!important;
+	box-shadow: 0 0.4rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+.state-t-withdrawals {
+	margin-bottom: 0!important;
+}
+.tr2-state-withdrawals{
+	font-size: 13px!important;
+}
+.td-state-withdrawals{
+    padding: 14px!important;
+}
+.td2-state-withdrawals{
+	padding-top: 16px!important;
+}
+.tdstate-a-withdrawals{
+	color: #842dce;
+}
+.tdstate-a-withdrawals:hover{
+	color: #842dce;
+	text-decoration: none;
+}
+
+.stdbut-withdrawals{
+	font-size: 11px!important;
+	background: #6c757dd4!important;
+    border-color: #858c93!important;
+}
+.stdbuta-withdrawals{
+	font-size: 12px!important;
+}
+.modalstate-style-withdrawals{
+	padding: 30px!important;
+}
+.modalstate-style-h5-withdrawals{
+	font-size: 15px;
+}
+.tdmodal-style-withdrawals{
+    color: green;
+    font-weight: 500;
+}
+
+
+
+
+/* ------------------------------- */
+/* mobile view
+---------------------------------- */
+@media all and (max-width: 768px) {
+.statementh5-withdrawals{
+    padding-top: 10px !important;
+    margin-bottom: 0px!important;
+     margin-left: 0px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.statementh5-withdrawals a{
+    margin-left: 0px!important;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+  }
+}
+@media all and (max-width: 768px) {
+.statementh5-withdrawals i{
+    margin-left: 0px!important;
+    font-size: 17px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.stateh5-withdrawals {
+    font-size: 15px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.tr-state-withdrawals {
+    font-size: 12px !important;
+  }
+}
+@media all and (max-width: 768px) {
+.td-state-withdrawals a {
+    font-size: 12px !important;
+    font-weight: 600;
+  }
+}
+@media all and (max-width: 768px) {
+.tr2-state-withdrawals{
+    font-size: 12px!important;
+  }
+}
+@media all and (max-width: 768px) {
+.statecardbody-withdrawals {
+    padding: 8px !important;
+  }
+}
+
+
